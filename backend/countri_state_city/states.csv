@@ -1,0 +1,4120 @@
+__v,_id,cities,country,name
+0,164,[],4,Eastern
+0,195,[],8,Sector claimed by Argentina/UK
+0,200,[],8,Unclaimed Sector
+0,249,[],13,Bankstown
+0,254,[],13,Castle Hill
+0,259,[],13,Clayton
+0,264,[],13,Knoxfield
+0,269,[],13,Queensland
+0,274,[],13,Werribee south
+0,339,[],18,Barguna
+0,344,[],18,Chandpur
+0,349,[],18,Dinajpur
+0,354,[],18,Gopalganj
+0,359,[],18,Jhalakati
+0,364,[],18,Koks Bazar
+0,369,[],18,Lalmanir Hat
+0,374,[],18,Maulvi Bazar
+0,379,[],18,Narsingdi
+0,384,[],18,Nilphamari
+0,389,[],18,Pirojpur
+0,394,[],18,Satkhira
+0,399,[],18,Sunamganj
+0,447,[],23,Atlantique
+0,452,[],23,Littoral
+0,488,[],28,Central Bobonong
+0,493,[],28,Chobe
+0,498,[],28,Kgalagadi North
+0,503,[],28,Ngamiland
+0,508,[],28,Selibe Phikwe
+0,547,[],33,Dobrich
+0,552,[],33,Kjustendil
+0,557,[],33,Pernik
+0,562,[],33,Shumen
+0,567,[],33,Sofijska oblast
+0,572,[],33,Vidin
+0,665,[],38,Manitoba
+0,670,[],38,Nunavut
+0,675,[],38,Yukon
+0,721,[],43,Bio Bio
+0,726,[],43,Maule
+0,808,[],48,Mwali
+0,852,[],53,Bafing
+0,857,[],53,Lacs
+0,862,[],53,"N''zi-Comoe"
+0,867,[],53,Vallee du Bandama
+0,943,[],58,Frederiksborg
+0,948,[],58,Kobenhavns Kommune
+0,953,[],58,Roskilde
+0,958,[],58,Storstrom
+0,963,[],58,Viborg
+0,1026,[],63,Chimborazo
+0,1031,[],63,Guayas
+0,1036,[],63,Morona Santiago
+0,1041,[],63,Sucumbios
+0,1106,[],68,Ida-Viru
+0,1111,[],68,Parnu
+0,1116,[],68,Valga
+0,1148,[],73,Northern
+0,1324,[],78,Kerguelen
+0,1405,[],83,Greater Accra
+0,1410,[],83,Western
+0,1504,[],88,Marie-Galante
+0,1591,[],93,Bolama
+0,1596,[],93,Tombali
+0,1703,[],103,Bushehr
+0,1708,[],103,Golestan
+0,1713,[],103,Kermanshah
+0,1718,[],103,Lorestan
+0,1723,[],103,Qom
+0,1728,[],103,Zanjan
+0,1907,[],108,Manchester
+0,1912,[],108,Saint Elizabeth
+0,1917,[],108,Westmoreland
+0,2008,[],113,North Eastern
+0,2093,[],118,Bishkek
+0,2098,[],118,Osh
+0,2172,[],123,Grand Cape Mount
+0,2177,[],123,Montserrado
+0,2325,[],133,Alif Alif
+0,2330,[],133,Gaaf Alif
+0,2335,[],133,Kaaf
+0,2340,[],133,Nuun
+0,2345,[],133,Vaav
+0,2460,[],143,Chuuk
+0,2505,[],148,Casablanca
+0,2510,[],148,Guelmim
+0,2515,[],148,Oujda
+0,2520,[],148,Souss Massa-Draa
+0,2525,[],148,Wilaya de Rabat-Sale
+0,2570,[],153,Janakpur
+0,2575,[],153,Mechi
+0,2622,[],158,Atlantico Norte
+0,2627,[],158,Chontales
+0,2632,[],158,Madriz
+0,2637,[],158,Rio San Juan
+0,2689,[],163,Tinian
+0,2750,[],168,Ghazzah
+0,2755,[],168,Qalqilyah
+0,2760,[],168,Tulkarm
+0,2838,[],173,Bulacan
+0,2843,[],173,Central Visayas
+0,2848,[],173,Ilocos
+0,2853,[],173,Muslim Mindanao
+0,2858,[],173,Western Visayas
+0,2924,[],178,al-Ghuwayriyah
+0,2929,[],178,ash-Shamal
+0,3120,[],188,"A''ana"
+0,3125,[],188,Gagaifomauga
+0,3130,[],188,Vaisigano
+0,3196,[],198,Gorenjska
+0,3201,[],198,Obalno-krashka
+0,3206,[],198,Pomurska
+0,3252,[],203,South Georgia
+0,3385,[],208,Nickerie
+0,3456,[],213,Aleppo
+0,3461,[],213,Hamah
+0,3466,[],213,al-Hasakah
+0,3604,[],218,Centre
+0,3663,[],223,Adana
+0,3668,[],223,Amasya
+0,3673,[],223,Aydin
+0,3678,[],223,Bilecik
+0,3683,[],223,Bursa
+0,3688,[],223,Diyarbakir
+0,3693,[],223,Erzurum
+0,3698,[],223,Hakkari
+0,3703,[],223,Istanbul
+0,3708,[],223,Kars
+0,3713,[],223,Kirikkale
+0,3718,[],223,Kutahya
+0,3723,[],223,Mugla
+0,3728,[],223,Osmaniye
+0,3733,[],223,Siirt
+0,3738,[],223,Tokat
+0,3743,[],223,Yalova
+0,3768,[],228,"Chernivets''ka"
+0,3773,[],228,Kharkiv
+0,3778,[],228,Krym
+0,3783,[],228,"Mykolayivs''ka"
+0,3788,[],228,Sevastopol
+0,3793,[],228,"Zakarpats''ka"
+0,3982,[],233,Cerro Largo
+0,3987,[],233,Lavalleja
+0,3992,[],233,Rivera
+0,3997,[],233,Tacuarembo
+0,4047,[],238,Da Nang
+0,4052,[],238,Duyen Hai Mien Trung
+0,4057,[],238,Mien Nui Va Trung Du
+0,4062,[],238,Tinh Da Nang
+0,4080,[],243,Hadramaut
+0,4085,[],243,"Ma''rib"
+0,4090,[],243,"Ta''izz"
+0,4095,[],243,al-Mahwit
+0,172,[],5,Les Escaldes
+0,203,[],9,Saint John
+0,277,[],14,Bundesland Salzburg
+0,282,[],14,Karnten
+0,287,[],14,Salzburg
+0,292,[],14,Upper Austria
+0,404,[],19,Saint George
+0,409,[],19,Saint Michael
+0,458,[],24,Saint George
+0,578,[],34,Bougouriba
+0,583,[],34,Gnagna
+0,588,[],34,Kenedougou
+0,593,[],34,Kourweogo
+0,598,[],34,Noumbiel
+0,603,[],34,Sanguie
+0,608,[],34,Sourou
+0,613,[],34,Zoundweogo
+0,680,[],39,Sal
+0,731,[],44,Anhui
+0,736,[],44,Beijing Shi
+0,741,[],44,Guangdong
+0,746,[],44,Hebei
+0,751,[],44,Jiangsu
+0,756,[],44,Liaoning Sheng
+0,761,[],44,Shandong
+0,766,[],44,Tianjin
+0,771,[],44,Zhejiang
+0,814,[],49,Kouilou
+0,819,[],49,Pool
+0,873,[],54,Istra
+0,878,[],54,Medhimurje
+0,883,[],54,Primorje-Gorski Kotar
+0,888,[],54,Varazhdin
+0,964,[],59,Ali Sabih
+0,1044,[],64,Aswan
+0,1049,[],64,Dumyat
+0,1054,[],64,Muhafazat al Gharbiyah
+0,1059,[],64,Sina al-Janubiyah
+0,1064,[],64,al-Fayyum
+0,1069,[],64,al-Minufiyah
+0,1074,[],64,al-Wadi al-Jadid
+0,1121,[],69,Amhara
+0,1126,[],69,Jigjiga
+0,1131,[],69,Tigray
+0,1155,[],74,Etela-Suomen Laani
+0,1160,[],74,Keski-Pohjanmaa
+0,1165,[],74,Northern Savonia
+0,1170,[],74,Pohjanmaa
+0,1175,[],74,Satakunta
+0,1180,[],74,Varsinais-Suomi
+0,1329,[],79,Nyanga
+0,1411,[],84,Gibraltar
+0,1511,[],89,Dededo
+0,1516,[],89,Mongmong-Toto-Maite
+0,1521,[],89,Yigo
+0,1600,[],94,East Berbice-Corentyne
+0,1605,[],94,Upper Demerara-Berbice
+0,1640,[],99,Borsod-Abauj-Zemplen
+0,1645,[],99,Hajdu-Bihar
+0,1650,[],99,Pest
+0,1655,[],99,Veszprem
+0,1732,[],104,Dhi Qar
+0,1737,[],104,Kurdistan
+0,1742,[],104,al-Anbar
+0,1747,[],104,as-Sulaymaniyah
+0,1921,[],109,Chiba
+0,1926,[],109,Gifu
+0,1931,[],109,Ibaraki
+0,1936,[],109,Kanagawa
+0,1941,[],109,Mie
+0,1946,[],109,Nara
+0,1951,[],109,Osaka
+0,1956,[],109,Shizuoka
+0,1961,[],109,Toyama
+0,2012,[],114,Abaiang
+0,2017,[],114,Beru
+0,2022,[],114,Makin
+0,2027,[],114,Phoenix Islands
+0,2032,[],114,Tarawa North
+0,2102,[],119,Bolikhamsay
+0,2107,[],119,Luang Prabang
+0,2112,[],119,Sekong
+0,2182,[],124,Fezzan
+0,2187,[],124,Misratah
+0,2192,[],124,Tarabulus
+0,2197,[],124,Zlitan
+0,2202,[],124,al-Khums
+0,2244,[],129,Berovo
+0,2249,[],129,Demir Hisar
+0,2254,[],129,Kochani
+0,2259,[],129,Negotino
+0,2264,[],129,Resen
+0,2269,[],129,Sveti Nikole
+0,2346,[],134,Bamako
+0,2351,[],134,Mopti
+0,2400,[],139,Assaba
+0,2405,[],139,Inshiri
+0,2410,[],139,Tiris Zammur
+0,2467,[],144,Chisinau Oras
+0,2472,[],144,Soroca
+0,2526,[],149,Cabo Delgado
+0,2531,[],149,Maputo Provincia
+0,2536,[],149,Zambezia
+0,2584,[],154,Sint Maarten
+0,2643,[],159,Niamey
+0,2691,[],164,Aust Agder
+0,2696,[],164,Hordaland
+0,2701,[],164,Oppland
+0,2706,[],164,Stavern
+0,2711,[],164,Vestfold
+0,2766,[],169,Colon
+0,2771,[],169,Los Santos
+0,2930,[],179,Saint-Benoit
+0,3089,[],184,Saint Anne Sandy Point
+0,3094,[],184,Saint John Figtree
+0,3099,[],184,Saint Thomas Lowland
+0,3133,[],189,Chiesanuova
+0,3138,[],189,San Marino
+0,3180,[],194,Takamaka
+0,3471,[],214,Changhwa
+0,3476,[],214,Hsinchu Shih
+0,3481,[],214,Keelung Shih
+0,3486,[],214,Penghu
+0,3491,[],214,Tainan Hsien
+0,3496,[],214,Taoyuan
+0,3610,[],219,Fakaofo
+0,3749,[],224,Dasoguz
+0,3798,[],229,Dubai
+0,3803,[],229,al-Fujayrah
+0,4002,[],234,Cizah
+0,4007,[],234,Namangan
+0,4012,[],234,Toskent
+0,4097,[],244,Kosovo and Metohija
+0,74,[],2,Berat
+0,79,[],2,Durres
+0,84,[],2,Has
+0,89,[],2,Kucove
+0,94,[],2,Lushnje
+0,99,[],2,Peqin
+0,104,[],2,Shkoder
+0,109,[],2,Vlore
+0,179,[],6,Cunene
+0,184,[],6,Kwanza Sul
+0,189,[],6,Moxico
+0,233,[],11,Ararat
+0,238,[],11,Shirak
+0,243,[],11,Yerevan
+0,314,[],16,Biminis
+0,319,[],16,Grand Bahama
+0,324,[],16,Ragged Island
+0,424,[],21,Brabant
+0,429,[],21,Liege
+0,434,[],21,Oost-Vlaanderen
+0,477,[],26,Beni
+0,482,[],26,Pando
+0,629,[],36,Banteay Mean Chey
+0,634,[],36,Kampong Thum
+0,639,[],36,Krong Kaeb
+0,644,[],36,Phnum Penh
+0,649,[],36,Siem Reab
+0,687,[],41,Bangui
+0,692,[],41,Lobaye
+0,697,[],41,Ombella Mpoko
+0,702,[],41,Vakaga
+0,835,[],51,Manihiki
+0,840,[],51,Rakahanga
+0,911,[],56,Nicosia District
+0,981,[],61,Barahona
+0,986,[],61,Elias Pina
+0,991,[],61,La Romana
+0,996,[],61,Monte Plata
+0,1001,[],61,Samana
+0,1006,[],61,Santiago
+0,1093,[],66,Bioko Sur
+0,1135,[],71,Falkland Islands
+0,1343,[],81,Ajaria
+0,1348,[],81,Mcheta-Mtianeti
+0,1353,[],81,Tbilisi
+0,1478,[],86,Ivittuut
+0,1483,[],86,Nuuk
+0,1488,[],86,Qeqertarsuaq
+0,1545,[],91,Alderney
+0,1550,[],91,Saint Peter Port
+0,1555,[],91,Torteval
+0,3,[],101,Arunachal Pradesh
+0,8,[],101,Dadra and Nagar Haveli
+0,13,[],101,Haryana
+0,18,[],101,Kenmore
+0,23,[],101,Manipur
+0,28,[],101,Natwar
+0,33,[],101,Rajasthan
+0,38,[],101,Uttar Pradesh
+0,1781,[],106,Ben Gurion Airport
+0,1786,[],106,Hadaron
+0,1791,[],106,Jaffa
+0,1796,[],106,Qalqilya
+0,1801,[],106,Yerushalayim
+0,1981,[],111,"Ma''an"
+0,1986,[],111,al-Mafraq
+0,2049,[],116,Chollabuk
+0,2054,[],116,Chungnam
+0,2059,[],116,Gyeongsang
+0,2064,[],116,Kangweon
+0,2069,[],116,Kyonggi-do
+0,2074,[],116,Seoul
+0,2079,[],116,Ulsan
+0,2152,[],121,Mohafazat Liban-Nord
+0,2157,[],121,an-Nabatiyah
+0,2221,[],126,Klaipedos
+0,2226,[],126,Taurages
+0,2280,[],131,Balaka
+0,2285,[],131,Dedza
+0,2290,[],131,Machinga
+0,2295,[],131,Mzimba
+0,2300,[],131,Ntcheu
+0,2305,[],131,Thyolo
+0,2365,[],136,Onchan
+0,2425,[],141,Mayotte
+0,2484,[],146,Bulgan
+0,2489,[],146,Govi-Altaj
+0,2494,[],146,Omnogovi
+0,2499,[],146,Tov
+0,2553,[],151,Erongo
+0,2558,[],151,Kunene
+0,2563,[],151,Oshikoto
+0,2684,[],161,Niue
+0,2727,[],166,Northern Areas
+0,2796,[],171,Amambay
+0,2801,[],171,Canendiyu
+0,2806,[],171,Itapua
+0,2811,[],171,San Pedro
+0,2900,[],176,Braga
+0,2905,[],176,Distrito do Porto
+0,2977,[],181,Adygeja
+0,2982,[],181,Arhangelsk
+0,2987,[],181,Burjatija
+0,2992,[],181,Chuvashija
+0,2997,[],181,Hakasija
+0,3002,[],181,Jamalo-Nenets
+0,3007,[],181,Kalmykija
+0,3012,[],181,Kemerovo
+0,3017,[],181,Korjakija
+0,3022,[],181,Kurgan
+0,3027,[],181,Marij El
+0,3032,[],181,Moskva
+0,3037,[],181,Novokusnezk
+0,3042,[],181,Penza
+0,3047,[],181,Rjazan
+0,3052,[],181,Samarskaya
+0,3057,[],181,Sverdlovsk
+0,3062,[],181,Tomsk
+0,3067,[],181,Uljanovsk
+0,3072,[],181,Vologda
+0,3147,[],191,Aseer
+0,3152,[],191,"Ha''il"
+0,3157,[],191,Qasim
+0,3162,[],191,al-Madinah
+0,3223,[],201,Banadir
+0,3228,[],201,Hiran
+0,3233,[],201,Sanag
+0,3320,[],206,Amparai
+0,3325,[],206,Galla
+0,3330,[],206,Kilinochchi
+0,3335,[],206,Mannarama
+0,3340,[],206,North Eastern Province
+0,3345,[],206,Ratnapuraya
+0,3350,[],206,Western Province
+0,3397,[],211,Blekinge
+0,3402,[],211,Gotland
+0,3407,[],211,Kristianstads
+0,3412,[],211,Saltsjo-Boo
+0,3417,[],211,Uppsala
+0,3422,[],211,Vastmanland
+0,3508,[],216,Iringa
+0,3513,[],216,Mara
+0,3518,[],216,Pwani
+0,3523,[],216,Tabora
+0,3619,[],221,Chaguanas
+0,3624,[],221,Point Fortin
+0,3629,[],221,San Juan
+0,3755,[],226,Nanumanga
+0,3760,[],226,Nukulaelae
+0,3922,[],231,Arkansas
+0,3927,[],231,Connecticut
+0,3932,[],231,Hawaii
+0,3937,[],231,Kansas
+0,3942,[],231,Maryland
+0,3947,[],231,Mississippi
+0,3952,[],231,New Hampshire
+0,3957,[],231,North Carolina
+0,3962,[],231,Oregon
+0,3967,[],231,South Dakota
+0,3972,[],231,Utah
+0,3977,[],231,Wisconsin
+0,4072,[],241,Wallis
+0,4115,[],246,Mashonaland East
+0,4120,[],246,Midlands
+0,114,[],3,Annabah
+0,119,[],3,Blidah
+0,124,[],3,Ghardayah
+0,129,[],3,Masilah
+0,134,[],3,Naama
+0,139,[],3,Sakikdah
+0,144,[],3,Tamanghasat
+0,149,[],3,Tisamsilt
+0,154,[],3,Warqla
+0,159,[],3,al-Bayadh
+0,193,[],7,Other Provinces
+0,330,[],17,Jidd Hafs
+0,335,[],17,al-Muharraq
+0,442,[],22,Orange Walk
+0,541,[],32,Belait
+0,654,[],37,Centre
+0,659,[],37,Nordouest
+0,704,[],42,Biltine
+0,709,[],42,Lac
+0,714,[],42,Ouaddai
+0,777,[],47,Arauca
+0,782,[],47,Caldas
+0,787,[],47,Choco
+0,792,[],47,Huila
+0,797,[],47,Norte de Santander
+0,802,[],47,Santander
+0,807,[],47,Vichada
+0,847,[],52,Limon
+0,916,[],57,Jihocesky Kraj
+0,921,[],57,Kralovehradecky
+0,926,[],57,Olomoucky Kraj
+0,931,[],57,Smirice
+0,936,[],57,Ustecky
+0,1009,[],62,Aileu
+0,1014,[],62,Cova Lima
+0,1019,[],62,Manatuto
+0,1100,[],67,Debub-Keih-Bahri
+0,1138,[],72,Nor ara Eysturoy
+0,1143,[],72,Sy ra Eysturoy
+0,1319,[],77,Marquesas
+0,1356,[],82,Bavaria
+0,1361,[],82,Bremen
+0,1366,[],82,Heroldstatt
+0,1371,[],82,Land Bayern
+0,1376,[],82,Land Rheinland-Pfalz
+0,1381,[],82,Mecklenburg-Vorpommern
+0,1386,[],82,Noord-Holland
+0,1391,[],82,Rhineland-Palatinate
+0,1396,[],82,Schleswig-Holstein
+0,1493,[],87,Carriacou-Petite Martinique
+0,1498,[],87,Saint Mark
+0,1560,[],92,Conakry
+0,1565,[],92,Faranah
+0,1570,[],92,Kankan
+0,1575,[],92,Koundara
+0,1580,[],92,Mali
+0,1585,[],92,Siguiri
+0,1618,[],97,Choluteca
+0,1623,[],97,Distrito Central
+0,1628,[],97,Islas de la Bahia
+0,1633,[],97,Santa Barbara
+0,1668,[],102,Bangka-Belitung
+0,1673,[],102,Jakarta
+0,1678,[],102,Kalimantan Barat
+0,1683,[],102,Lampung
+0,1688,[],102,Papua
+0,1693,[],102,Sulawesi Tengah
+0,1698,[],102,Sumatera Utara
+0,1805,[],107,Alessandria
+0,1810,[],107,Avellino
+0,1815,[],107,Bergamo
+0,1820,[],107,Brindisi
+0,1825,[],107,Catania
+0,1830,[],107,Cuneo
+0,1835,[],107,Forli-Cesena
+0,1840,[],107,"L''Aquila"
+0,1845,[],107,Liguria
+0,1850,[],107,Mantova
+0,1855,[],107,Molise
+0,1860,[],107,Novara
+0,1865,[],107,Pesaro-Urbino
+0,1870,[],107,Pordenone
+0,1875,[],107,Roma
+0,1880,[],107,Sicilia
+0,1885,[],107,Teramo
+0,1890,[],107,Trento
+0,1895,[],107,Varese
+0,1900,[],107,Verona
+0,1991,[],112,Aktobe
+0,1996,[],112,Karagandi
+0,2001,[],112,Sigis Kazakstan
+0,2084,[],117,Mishref
+0,2089,[],117,al-Farwaniyah
+0,2161,[],122,Leribe
+0,2166,[],122,"Qacha''s Nek"
+0,2233,[],127,Diekirch
+0,2238,[],127,Mersch
+0,2307,[],132,Johor
+0,2312,[],132,Melaka
+0,2317,[],132,Perak
+0,2322,[],132,Selangor
+0,2372,[],137,Arno
+0,2377,[],137,Jabat
+0,2382,[],137,Lib
+0,2387,[],137,Mili
+0,2392,[],137,Utrik
+0,2429,[],142,Baja California Sur
+0,2434,[],142,Colima
+0,2439,[],142,Guerrero
+0,2444,[],142,Morelos
+0,2449,[],142,Queretaro
+0,2454,[],142,Tabasco
+0,2459,[],142,Zacatecas
+0,2605,[],157,Bay of Plenty
+0,2610,[],157,Manawatu-Wanganui
+0,2615,[],157,Rodney
+0,2620,[],157,Wellington
+0,2732,[],167,Angaur
+0,2737,[],167,Ngaraard
+0,2742,[],167,Ngerchelong
+0,2813,[],172,Ancash
+0,2818,[],172,Cusco
+0,2823,[],172,La Libertad
+0,2828,[],172,Moquegua
+0,2833,[],172,Tacna
+0,2912,[],177,Carolina
+0,2917,[],177,Ponce
+0,3076,[],182,Cyangugu
+0,3081,[],182,Kibuye
+0,3116,[],187,Saint Andrew
+0,3165,[],192,Diourbel
+0,3170,[],192,Saint-Louis
+0,3188,[],197,Bratislavsky
+0,3193,[],197,Trnavsky
+0,3241,[],202,Kempton Park
+0,3246,[],202,North West
+0,3251,[],202,Western Cape
+0,3357,[],207,Gharb Darfur
+0,3362,[],207,Junqali
+0,3367,[],207,Shamal Kurdufan
+0,3372,[],207,al-Bahr-al-Ahmar
+0,3377,[],207,al-Wahdah
+0,3425,[],212,Appenzell Inner-Rhoden
+0,3430,[],212,Canton Ticino
+0,3435,[],212,Heerbrugg
+0,3440,[],212,Muhen
+0,3445,[],212,Schaffhausen
+0,3450,[],212,Uri
+0,3455,[],212,Zurich
+0,3530,[],217,Chachoengsao
+0,3535,[],217,Chiang Mai
+0,3540,[],217,Kamphaeng Phet
+0,3545,[],217,Lampang
+0,3550,[],217,Maha Sarakham
+0,3555,[],217,Nakhon Ratchasima
+0,3560,[],217,Nong Bua Lam Phu
+0,3565,[],217,Phangnga
+0,3570,[],217,Phichit
+0,3575,[],217,Prachin Buri
+0,3580,[],217,Roi Et
+0,3585,[],217,Samut Songkhran
+0,3590,[],217,Songkhla
+0,3595,[],217,Tak
+0,3600,[],217,Uthai Thani
+0,3634,[],222,Bajah
+0,3639,[],222,Gouvernorat de Sousse
+0,3644,[],222,Monastir
+0,3649,[],222,Safaqis
+0,3654,[],222,Tatawin
+0,3659,[],222,al-Mahdiyah
+0,3763,[],227,Eastern
+0,4021,[],237,Anzoategui
+0,4026,[],237,Carabobo
+0,4031,[],237,Guarico
+0,4036,[],237,Nueva Esparta
+0,4041,[],237,Vargas
+0,4075,[],242,"al-''Ayun"
+0,45,[],1,Balkh
+0,50,[],1,Gazni
+0,55,[],1,Kapisa
+0,60,[],1,Nangarhar
+0,65,[],1,Parwan
+0,70,[],1,Takhar
+0,209,[],10,Catamarca
+0,214,[],10,Distrito Federal
+0,219,[],10,La Rioja
+0,224,[],10,Salta
+0,229,[],10,Santiago del Estero
+0,297,[],15,Ganca
+0,302,[],15,Mugan-Salyan
+0,307,[],15,Saki
+0,415,[],20,Hrodna
+0,420,[],20,Petrik
+0,462,[],25,Daga
+0,467,[],25,Pemagatsel
+0,472,[],25,Shemgang
+0,512,[],30,Acre
+0,517,[],30,Ceara
+0,522,[],30,Maranhao
+0,527,[],30,Paraiba
+0,532,[],30,Rio Grande do Sul
+0,537,[],30,Sao Paulo
+0,616,[],35,Bururi
+0,621,[],35,Kayanza
+0,626,[],35,Ngozi
+0,821,[],50,Bandundu
+0,826,[],50,Kasai-Oriental
+0,831,[],50,Sud-Kivu
+0,897,[],55,Granma
+0,902,[],55,La Habana
+0,907,[],55,Santiago de Cuba
+0,972,[],60,Saint John
+0,977,[],60,Saint Paul
+0,1080,[],65,Cuscatlan
+0,1085,[],65,San Miguel
+0,1090,[],65,Usulutan
+0,1182,[],75,Aisne
+0,1187,[],75,Alpes-de-Haute-Provence
+0,1192,[],75,Ariege
+0,1197,[],75,Bas-Rhin
+0,1202,[],75,Brittany
+0,1207,[],75,Centre
+0,1212,[],75,Corse-du-Sud
+0,1217,[],75,Deux-Sevres
+0,1222,[],75,Eure
+0,1227,[],75,Gard
+0,1232,[],75,Haute-Garonne
+0,1237,[],75,Haute-Vienne
+0,1242,[],75,Ile-de-France
+0,1247,[],75,Jura
+0,1252,[],75,Le Castellet
+0,1257,[],75,Loire-Atlantique
+0,1262,[],75,Lower Normandy
+0,1267,[],75,Mayenne
+0,1272,[],75,Moselle
+0,1277,[],75,Orne
+0,1282,[],75,Picardy
+0,1287,[],75,Rhone
+0,1292,[],75,Sarthe
+0,1297,[],75,Somme
+0,1302,[],75,Territoire de Belfort
+0,1307,[],75,Var
+0,1312,[],75,Vosges
+0,1336,[],80,Brikama
+0,1341,[],80,Mansakonko
+0,1416,[],85,Arkadia
+0,1421,[],85,Crete
+0,1426,[],85,Evros
+0,1431,[],85,Grevena
+0,1436,[],85,Hios
+0,1441,[],85,Karditsa
+0,1446,[],85,Kiklades
+0,1451,[],85,Larisa
+0,1456,[],85,Messinia
+0,1461,[],85,Piraios
+0,1466,[],85,Serrai
+0,1471,[],85,West Greece
+0,1525,[],90,Chimaltenango
+0,1530,[],90,Huehuetenango
+0,1535,[],90,Quezaltenango
+0,1540,[],90,Santa Rosa
+0,1607,[],95,Artibonite
+0,1612,[],95,Nord-Ouest
+0,1658,[],100,Gullbringusysla
+0,1663,[],100,Su urnes
+0,1751,[],105,Cavan
+0,1756,[],105,Galway
+0,1761,[],105,Leinster
+0,1766,[],105,Louth
+0,1771,[],105,Roscommon
+0,1776,[],105,Waterford
+0,1967,[],110,Saint Brelade
+0,1972,[],110,Saint Martin
+0,2035,[],115,Chagangdo
+0,2040,[],115,Kaeseong
+0,2045,[],115,Pyeongyang
+0,2120,[],120,Bauskas
+0,2125,[],120,Gulbenes
+0,2130,[],120,Kraslavas
+0,2135,[],120,Ludzas
+0,2140,[],120,Rezeknes
+0,2145,[],120,Tukuma
+0,2207,[],125,Balzers
+0,2212,[],125,Ruggell
+0,2217,[],125,Vaduz
+0,2278,[],130,Toamasina
+0,2358,[],135,Outer Harbour
+0,2413,[],140,Eau Coulee
+0,2418,[],140,Pamplempousses
+0,2423,[],140,Rose Hill
+0,2480,[],145,Monte Carlo
+0,2541,[],150,Kayah
+0,2546,[],150,Nay Pyi Taw
+0,2551,[],150,Yangon
+0,2589,[],155,Friesland
+0,2594,[],155,Noord-Holland
+0,2599,[],155,Zuid-Holland
+0,2651,[],160,Anambra
+0,2656,[],160,Cross River
+0,2661,[],160,Enugu
+0,2666,[],160,Kano
+0,2671,[],160,Lagos
+0,2676,[],160,Osun
+0,2681,[],160,Taraba
+0,2715,[],165,Masqat
+0,2720,[],165,adh-Dhahirah
+0,2777,[],170,Eastern Highlands
+0,2782,[],170,Manus
+0,2787,[],170,North Solomons
+0,2792,[],170,West New Britain
+0,2863,[],175,Dziekanow Lesny
+0,2868,[],175,Kujawsko-Pomorskie
+0,2873,[],175,Malopolskie
+0,2878,[],175,Podkarpackie
+0,2883,[],175,Pruszkow
+0,2888,[],175,Swietokrzyskie
+0,2893,[],175,Wroclaw
+0,2936,[],180,Arges
+0,2941,[],180,Braila
+0,2946,[],180,Caras-Severin
+0,2951,[],180,Dolj
+0,2956,[],180,Hunedoara
+0,2961,[],180,Mehedinti
+0,2966,[],180,Salaj
+0,2971,[],180,Teleorman
+0,2976,[],180,Vrancea
+0,3106,[],185,Dennery
+0,3111,[],185,Vieux Fort
+0,3144,[],190,Me-Zochi
+0,3185,[],195,Western
+0,3216,[],200,Makira and Ulawa
+0,3254,[],205,A Coruna
+0,3259,[],205,Andalucia
+0,3264,[],205,Barcelona
+0,3269,[],205,Cadiz
+0,3274,[],205,Ciudad Real
+0,3279,[],205,Comunidad Autonoma del Princip
+0,3284,[],205,Girona
+0,3289,[],205,Huesca
+0,3294,[],205,Lerida
+0,3299,[],205,Melilla
+0,3304,[],205,Palencia
+0,3309,[],205,Sevilla
+0,3314,[],205,Toledo
+0,3319,[],205,Zaragoza
+0,3500,[],215,Dushanbe
+0,3612,[],220,Eua
+0,3752,[],225,Grand Turk
+0,3808,[],230,Armagh
+0,3813,[],230,Brechin
+0,3818,[],230,Cambridgeshire
+0,3823,[],230,Conwy
+0,3828,[],230,Denbighshire
+0,3833,[],230,Didcot
+0,3838,[],230,East Lothian
+0,3843,[],230,Essex
+0,3848,[],230,Gainsborough
+0,3853,[],230,Herefordshire
+0,3858,[],230,Kenford
+0,3863,[],230,Leicestershire
+0,3868,[],230,Manchester
+0,3873,[],230,Mildenhall
+0,3878,[],230,North Yorkshire
+0,3883,[],230,Nottinghamshire
+0,3888,[],230,Sark
+0,3893,[],230,South Glamorgan
+0,3898,[],230,Strabane
+0,3903,[],230,Tyne and Wear
+0,3908,[],230,West Lothian
+0,3913,[],230,Wiltshire
+0,3918,[],230,Yorkshire
+0,4017,[],235,Tafea
+0,4102,[],245,Central
+0,4107,[],245,North-Western
+0,166,[],4,Swains Island
+0,196,[],8,Sector claimed by Australia
+0,245,[],13,Auckland
+0,250,[],13,Baulkham Hills
+0,255,[],13,Caulfield
+0,260,[],13,Collingwood
+0,265,[],13,Melbourne
+0,270,[],13,South Australia
+0,275,[],13,Western Australia
+0,340,[],18,Barisal
+0,345,[],18,Chattagam
+0,350,[],18,Faridpur
+0,355,[],18,Habiganj
+0,360,[],18,Jhanaydah
+0,365,[],18,Komilla
+0,370,[],18,Madaripur
+0,375,[],18,Meherpur
+0,380,[],18,Nator
+0,385,[],18,Noakhali
+0,390,[],18,Rajbari
+0,395,[],18,Shariatpur
+0,400,[],18,Tangayal
+0,448,[],23,Borgou
+0,453,[],23,Mono
+0,489,[],28,Central Boteti
+0,494,[],28,Francistown
+0,499,[],28,Kgalagadi South
+0,504,[],28,Ngwaketse
+0,509,[],28,South East
+0,548,[],33,Gabrovo
+0,553,[],33,Lovech
+0,558,[],33,Pleven
+0,563,[],33,Silistra
+0,568,[],33,Stara Zagora
+0,573,[],33,Vraca
+0,666,[],38,New Brunswick
+0,671,[],38,Ontario
+0,717,[],43,Aisen
+0,722,[],43,Coquimbo
+0,727,[],43,Metropolitana
+0,809,[],48,Njazidja
+0,853,[],53,Denguele
+0,858,[],53,Lagunes
+0,863,[],53,Sassandra
+0,868,[],53,Worodougou
+0,944,[],58,Fyn
+0,949,[],58,Nordjylland
+0,954,[],58,Roslev
+0,959,[],58,Syddanmark
+0,1022,[],63,Azuay
+0,1027,[],63,Cotopaxi
+0,1032,[],63,Imbabura
+0,1037,[],63,Napo
+0,1042,[],63,Tungurahua
+0,1107,[],68,Jarva
+0,1112,[],68,Polva
+0,1117,[],68,Viljandi
+0,1149,[],73,South Pacific
+0,1401,[],83,Ashanti
+0,1406,[],83,Northern
+0,1500,[],88,Basse-Terre
+0,1505,[],88,Saint Barthelemy
+0,1592,[],93,Cacheu
+0,1636,[],98,Hong Kong
+0,1704,[],103,Chahar Mahal-e Bakhtiari
+0,1709,[],103,Hamadan
+0,1714,[],103,Khorasan
+0,1719,[],103,Markazi
+0,1724,[],103,Semnan
+0,1903,[],108,Buxoro Viloyati
+0,1908,[],108,Portland
+0,1913,[],108,Saint James
+0,2004,[],113,Central
+0,2009,[],113,Nyanza
+0,2094,[],118,Chui
+0,2099,[],118,Talas
+0,2173,[],123,Grand Gedeh
+0,2178,[],123,Nimba
+0,2326,[],133,Alif Dhaal
+0,2331,[],133,Gaaf Dhaal
+0,2336,[],133,Laam
+0,2341,[],133,Raa
+0,2395,[],138,Fort-de-France
+0,2461,[],143,Kusaie
+0,2506,[],148,Chaouia-Ouardigha
+0,2511,[],148,Kenitra
+0,2516,[],148,Province de Tanger
+0,2521,[],148,Tadla-Azilal
+0,2566,[],153,Bagmati
+0,2571,[],153,Karnali
+0,2576,[],153,Narayani
+0,2623,[],158,Atlantico Sur
+0,2628,[],158,Esteli
+0,2633,[],158,Managua
+0,2638,[],158,Rivas
+0,2746,[],168,Ariha
+0,2751,[],168,Ghazzah ash-Shamaliyah
+0,2756,[],168,Rafah
+0,2761,[],168,al-Khalil
+0,2839,[],173,Cagayan
+0,2844,[],173,Cordillera
+0,2849,[],173,Laguna
+0,2854,[],173,Northern Mindanao
+0,2920,[],178,Doha
+0,2925,[],178,al-Jumayliyah
+0,3084,[],183,Ascension
+0,3121,[],188,Aiga-i-le-Tai
+0,3126,[],188,Palauli
+0,3174,[],193,Central Serbia
+0,3197,[],198,Gorishka
+0,3202,[],198,Obcina Domzale
+0,3207,[],198,Savinjska
+0,3381,[],208,Brokopondo
+0,3386,[],208,Para
+0,3457,[],213,"Dar''a"
+0,3462,[],213,Hims
+0,3467,[],213,al-Ladhiqiyah
+0,3605,[],218,Kara
+0,3664,[],223,Adiyaman
+0,3669,[],223,Ankara
+0,3674,[],223,Balikesir
+0,3679,[],223,Bingol
+0,3684,[],223,Canakkale
+0,3689,[],223,Duzce
+0,3694,[],223,Eskisehir
+0,3699,[],223,Hatay
+0,3704,[],223,Izmir
+0,3709,[],223,Karsiyaka
+0,3714,[],223,Kirklareli
+0,3719,[],223,Lefkosa
+0,3724,[],223,Mus
+0,3729,[],223,Rize
+0,3734,[],223,Sinop
+0,3739,[],223,Trabzon
+0,3744,[],223,Yozgat
+0,3769,[],228,Crimea
+0,3774,[],228,Kharkov
+0,3779,[],228,Kyyiv
+0,3784,[],228,"Odes''ka"
+0,3789,[],228,"Sums''ka"
+0,3794,[],228,Zaporizhia
+0,3983,[],233,Colonia
+0,3988,[],233,Maldonado
+0,3993,[],233,Rocha
+0,3998,[],233,Treinta y Tres
+0,4048,[],238,Dong Bang Song Cuu Long
+0,4053,[],238,Hanoi
+0,4058,[],238,Thai Nguyen
+0,4063,[],238,Tinh Gia Lai
+0,4081,[],243,Hajjah
+0,4086,[],243,"Madinat San''a"
+0,4091,[],243,al-Bayda
+0,168,[],5,Andorra la Vella
+0,173,[],5,Ordino
+0,204,[],9,Saint Mary
+0,278,[],14,Bundesland Steiermark
+0,283,[],14,Liezen
+0,288,[],14,Schleswig-Holstein
+0,293,[],14,Vorarlberg
+0,405,[],19,Saint James
+0,410,[],19,Saint Peter
+0,511,[],29,Bouvet Island
+0,579,[],34,Boulgou
+0,584,[],34,Gourma
+0,589,[],34,Komandjari
+0,594,[],34,Leraba
+0,599,[],34,Oubritenga
+0,604,[],34,Sanmatenga
+0,609,[],34,Tapoa
+0,676,[],39,Boavista
+0,681,[],39,Santo Antao
+0,732,[],44,Anhui Province
+0,737,[],44,Chongqing
+0,742,[],44,Guangdong Sheng
+0,747,[],44,Heilongjiang
+0,752,[],44,Jiangsu Sheng
+0,757,[],44,Nei Monggol
+0,762,[],44,Shandong Sheng
+0,767,[],44,Xianggang
+0,772,[],44,Zhejiang Sheng
+0,815,[],49,Lekoumou
+0,820,[],49,Sangha
+0,874,[],54,Karlovac
+0,879,[],54,Medimurska Zupanija
+0,884,[],54,Shibenik-Knin
+0,889,[],54,Virovitica-Podravina
+0,965,[],59,Dikhil
+0,1045,[],64,Asyut
+0,1050,[],64,Kafr-ash-Shaykh
+0,1055,[],64,Muhafazat al Iskandariyah
+0,1060,[],64,Sina ash-Shamaliyah
+0,1065,[],64,al-Gharbiyah
+0,1070,[],64,al-Minya
+0,1075,[],64,as-Suways
+0,1122,[],69,Benishangul
+0,1127,[],69,Mekele
+0,1151,[],74,Ahvenanmaa
+0,1156,[],74,Ita-Suomen Laani
+0,1161,[],74,Keski-Suomi
+0,1166,[],74,Ostrobothnia
+0,1171,[],74,Pohjois-Karjala
+0,1176,[],74,Southern Savonia
+0,1325,[],79,Estuaire
+0,1330,[],79,Ogooue-Ivindo
+0,1507,[],89,Agana Heights
+0,1512,[],89,Hagatna
+0,1517,[],89,Santa Rita
+0,1522,[],89,Yona
+0,1601,[],94,Essequibo Islands-West Demerar
+0,1606,[],94,Upper Takutu-Upper Essequibo
+0,1641,[],99,Budapest
+0,1646,[],99,Heves
+0,1651,[],99,Somogy
+0,1656,[],99,Zala
+0,1733,[],104,Diyala
+0,1738,[],104,Maysan
+0,1743,[],104,al-Basrah
+0,1748,[],104,"at-Ta''mim"
+0,1922,[],109,Ehime
+0,1927,[],109,Gumma
+0,1932,[],109,Ishikawa
+0,194,[],8,Sector claimed by Argentina/Ch
+0,1937,[],109,Kanto
+0,1942,[],109,Miyagi
+0,198,[],8,Sector claimed by New Zealand
+0,1947,[],109,Niigata
+0,247,[],13,Balgowlah
+0,1952,[],109,Saga
+0,1957,[],109,Tochigi
+0,252,[],13,Camberwell
+0,1962,[],109,Wakayama
+0,257,[],13,Cheltenham
+0,2013,[],114,Abemana
+0,262,[],13,Hawthorn
+0,2018,[],114,Butaritari
+0,267,[],13,Northern Territory
+0,2023,[],114,Marakei
+0,272,[],13,Templestowe
+0,2028,[],114,Tabiteuea North
+0,337,[],18,Bagar Hat
+0,2033,[],114,Tarawa South
+0,342,[],18,Bogora
+0,2103,[],119,Champasak
+0,347,[],18,Chuadanga
+0,2108,[],119,Oudomxay
+0,352,[],18,Gaybanda
+0,2113,[],119,Viangchan Prefecture
+0,357,[],18,Jamalpur
+0,2183,[],124,Banghazi
+0,362,[],18,Khulna
+0,2188,[],124,Murzuq
+0,367,[],18,Kushtiya
+0,2193,[],124,Tarhunah
+0,372,[],18,Maimansingh
+0,2198,[],124,"al-''Aziziyah"
+0,377,[],18,Naral
+0,2203,[],124,al-Kufrah
+0,382,[],18,Nawabganj
+0,2245,[],129,Bitola
+0,387,[],18,Panchagarh
+0,2250,[],129,Gevgelija
+0,392,[],18,Rangamati
+0,397,[],18,Silhat
+0,2255,[],129,Kratovo
+0,445,[],23,Alibori
+0,2260,[],129,Ohrid
+0,450,[],23,Couffo
+0,2265,[],129,Shtip
+0,2270,[],129,Tetovo
+0,455,[],23,Plateau
+0,2347,[],134,Gao
+0,491,[],28,Central Serowe-Palapye
+0,2352,[],134,Segou
+0,496,[],28,Ghanzi
+0,2401,[],139,Brakna
+0,501,[],28,Kweneng
+0,506,[],28,Okavango
+0,2406,[],139,Nawakshut
+0,2411,[],139,Trarza
+0,545,[],33,Blagoevgrad
+0,2468,[],144,Edinet
+0,550,[],33,Jambol
+0,2473,[],144,Taraclia
+0,555,[],33,Oblast Sofiya-Grad
+0,2527,[],149,Gaza
+0,560,[],33,Razgrad
+0,2532,[],149,Nampula
+0,2580,[],154,Bonaire
+0,565,[],33,Smoljan
+0,2639,[],159,Agadez
+0,570,[],33,Varna
+0,2644,[],159,Tahoua
+0,663,[],38,Alberta
+0,2692,[],164,Bergen
+0,668,[],38,Northwest Territories
+0,2697,[],164,Moere og Romsdal
+0,673,[],38,Quebec
+0,2702,[],164,Oslo
+0,719,[],43,Araucania
+0,2707,[],164,Sykkylven
+0,724,[],43,Los Lagos
+0,2712,[],164,ÃƒÂ˜stfold
+0,729,[],43,Tarapaca
+0,2767,[],169,Darien
+0,850,[],53,Abidjan
+0,2772,[],169,Ngobe Bugle
+0,855,[],53,Fromager
+0,2931,[],179,Saint-Denis
+0,860,[],53,Moyen-Cavally
+0,3090,[],184,Saint George Basseterre
+0,3095,[],184,Saint Mary Cayon
+0,865,[],53,Sud-Bandama
+0,941,[],58,Arhus
+0,3100,[],184,Saint Thomas Middle Island
+0,946,[],58,Kobenhavn
+0,3134,[],189,Domagnano
+0,951,[],58,Ringkobing
+0,3139,[],189,Serravalle
+0,956,[],58,Soeborg
+0,3181,[],194,Victoria
+0,961,[],58,Vejle
+0,3472,[],214,Chiayi Hsien
+0,1024,[],63,Canar
+0,3477,[],214,Hualien
+0,1029,[],63,Esmeraldas
+0,3482,[],214,Kinmen
+0,1034,[],63,Los Rios
+0,3487,[],214,Pingtung
+0,1039,[],63,Pastaza
+0,3492,[],214,Tainan Shih
+0,1104,[],68,Harju
+0,3497,[],214,Yilan
+0,1109,[],68,Laane
+0,3611,[],219,Nukunonu
+0,1114,[],68,Saare
+0,3750,[],224,Lebap
+0,1146,[],73,Central
+0,3799,[],229,Ras al-Khaymah
+0,1322,[],78,Amsterdam
+0,3804,[],229,ash-Shariqah
+0,1403,[],83,Central
+0,4003,[],234,Fargona
+0,1408,[],83,Upper West
+0,4008,[],234,Navoi
+0,1502,[],88,Iles des Saintes
+0,4064,[],239,Anegada
+0,1589,[],93,Bafata
+0,4098,[],244,Montenegro
+0,1594,[],93,Oio
+0,75,[],2,Bulqize
+0,1701,[],103,Azarbayjan-e Bakhtari
+0,80,[],2,Elbasan
+0,1706,[],103,Fars
+0,85,[],2,Kavaje
+0,1711,[],103,Ilam
+0,90,[],2,Kukes
+0,1716,[],103,Kohgiluyeh-e Boyerahmad
+0,95,[],2,Mallakaster
+0,1721,[],103,Ostan-e Esfahan
+0,100,[],2,Permet
+0,1726,[],103,Tehran
+0,105,[],2,Skrapar
+0,1905,[],108,Hanover
+0,175,[],6,Bengo
+0,1910,[],108,Saint Ann
+0,180,[],6,Huambo
+0,1915,[],108,Saint Thomas
+0,185,[],6,Luanda
+0,2006,[],113,Eastern
+0,190,[],6,Namibe
+0,2011,[],113,Western
+0,234,[],11,Armavir
+0,2096,[],118,Jalal-Abad
+0,239,[],11,Stepanakert
+0,2170,[],123,Bong
+0,310,[],16,Abaco
+0,2175,[],123,Margibi
+0,315,[],16,Cat Island
+0,2180,[],123,Sinoe
+0,320,[],16,Inagua Islands
+0,2328,[],133,Dhaal
+0,325,[],16,Rum Cay
+0,2333,[],133,Haa Alif
+0,425,[],21,Brabant Wallon
+0,2338,[],133,Male
+0,2343,[],133,Siin
+0,430,[],21,Limburg
+0,2397,[],138,Le Marin
+0,435,[],21,Provincie Brabant
+0,2463,[],143,Yap
+0,478,[],26,Chuquisaca
+0,2508,[],148,Fes-Boulemane
+0,483,[],26,Potosi
+0,2513,[],148,Meknes-Tafilalet
+0,630,[],36,Bat Dambang
+0,2518,[],148,Sala Al Jadida
+0,635,[],36,Kampot
+0,2523,[],148,Taza-Al Hoceima-Taounate
+0,640,[],36,Krong Pailin
+0,2568,[],153,Dhawalagiri
+0,645,[],36,Pousat
+0,2573,[],153,Lumbini
+0,650,[],36,Stueng Traeng
+0,2578,[],153,Sagarmatha
+0,688,[],41,Basse-Kotto
+0,2625,[],158,Carazo
+0,693,[],41,Mambere-Kadei
+0,2630,[],158,Jinotega
+0,698,[],41,Ouaka
+0,2635,[],158,Matagalpa
+0,774,[],46,Cocos (Keeling) Islands
+0,2687,[],163,Rota
+0,836,[],51,Mauke
+0,2748,[],168,Bethlehem
+0,841,[],51,Rarotonga
+0,2753,[],168,Khan Yunis
+0,912,[],56,Paphos
+0,2758,[],168,Salfit
+0,982,[],61,Dajabon
+0,2836,[],173,Batangas
+0,987,[],61,Espaillat
+0,2841,[],173,Central Luzon
+0,992,[],61,La Vega
+0,2846,[],173,Eastern Visayas
+0,997,[],61,Pedernales
+0,2851,[],173,Mactan
+0,1002,[],61,San Cristobal
+0,2856,[],173,Southern Tagalog
+0,1007,[],61,Santiago Rodriguez
+0,2922,[],178,Umm Salal
+0,1094,[],66,Centro Sur
+0,2927,[],178,al-Wakrah
+0,1136,[],71,South Georgia
+0,3086,[],183,Saint Helena
+0,1344,[],81,Guria
+0,3123,[],188,"Fa''asaleleaga"
+0,1349,[],81,Racha
+0,3128,[],188,Tuamasaga
+0,1474,[],86,Aasiaat
+0,3176,[],193,Vojvodina
+0,1479,[],86,Kangaatsiaq
+0,3199,[],198,Koroshka
+0,1484,[],86,Paamiut
+0,3204,[],198,Osrednjeslovenska
+0,1489,[],86,Sisimiut
+0,3209,[],198,Spodnjeposavska
+0,1546,[],91,Castel
+0,3383,[],208,Coronie
+0,1551,[],91,Saint Pierre du Bois
+0,3388,[],208,Saramacca
+0,1556,[],91,Vale
+0,3459,[],213,Dimashq
+0,4,[],101,Assam
+0,3464,[],213,Madinat Dimashq
+0,9,[],101,Daman and Diu
+0,3469,[],213,ar-Raqqah
+0,14,[],101,Himachal Pradesh
+0,3607,[],218,Plateaux
+0,19,[],101,Kerala
+0,3666,[],223,Agri
+0,24,[],101,Meghalaya
+0,3671,[],223,Ardahan
+0,29,[],101,Odisha
+0,3676,[],223,Batman
+0,34,[],101,Sikkim
+0,3681,[],223,Bolu
+0,39,[],101,Uttarakhand
+0,3686,[],223,Corum
+0,1782,[],106,Bethlehem
+0,3691,[],223,Elazig
+0,1787,[],106,Haifa District
+0,1792,[],106,Jerusalem
+0,3696,[],223,Giresun
+0,1797,[],106,Talme Elazar
+0,3701,[],223,Igdir
+0,1977,[],111,Ajlun
+0,3706,[],223,Karabuk
+0,1982,[],111,Madaba
+0,3711,[],223,Kayseri
+0,1987,[],111,at-Tafilah
+0,3716,[],223,Kocaeli
+0,3721,[],223,Manisa
+0,2050,[],116,Chollanam
+0,3726,[],223,Nigde
+0,2055,[],116,Daegu
+0,3731,[],223,Samsun
+0,2060,[],116,Gyeongsangnam-do
+0,3736,[],223,Sivas
+0,2065,[],116,Kwangju
+0,3741,[],223,Usak
+0,2070,[],116,Kyungbuk-Do
+0,3766,[],228,"Cherkas''ka"
+0,2075,[],116,Sudogwon
+0,3771,[],228,"Donets''ka"
+0,2080,[],116,Wonju
+0,3776,[],228,"Khmel''nyts''ka"
+0,2153,[],121,Mohafazat Mont-Liban
+0,3781,[],228,"L''vivs''ka"
+0,2158,[],121,ash-Shamal
+0,3786,[],228,"Poltavs''ka"
+0,2222,[],126,Marijampoles
+0,3791,[],228,"Volyns''ka"
+0,2227,[],126,Telshiu
+0,3980,[],233,Artigas
+0,2281,[],131,Blantyre City
+0,3985,[],233,FLorida
+0,2286,[],131,Dowa
+0,3990,[],233,Paysandu
+0,2291,[],131,Mangochi
+0,3995,[],233,San Jose
+0,2296,[],131,Mzuzu City
+0,4045,[],238,Binh Dinh
+0,2301,[],131,Ntchisi
+0,4050,[],238,Dong Nai
+0,2306,[],131,Zomba Municipality
+0,4055,[],238,Khu Bon Cu
+0,2366,[],136,Peel
+0,4060,[],238,Thu Do Ha Noi
+0,2426,[],141,Pamanzi
+0,4078,[],243,Abyan
+0,2485,[],146,Darhan-Uul
+0,4083,[],243,Ibb
+0,2490,[],146,Govisumber
+0,4088,[],243,Sana
+0,2495,[],146,Orhon
+0,4093,[],243,al-Jawf
+0,2500,[],146,Ulaanbaatar
+0,170,[],5,Encamp
+0,2554,[],151,Hardap
+0,201,[],9,Barbuda
+0,2559,[],151,Ohangwena
+0,206,[],9,Saint Peter
+0,2564,[],151,Otjozondjupa
+0,280,[],14,Burgenland
+0,2723,[],166,Baluchistan
+0,2728,[],166,Punjab
+0,285,[],14,Niederosterreich
+0,2797,[],171,Asuncion
+0,290,[],14,Styria
+0,2802,[],171,Central
+0,402,[],19,Christ Church
+0,2807,[],171,Misiones
+0,407,[],19,Saint Joseph
+0,2896,[],176,Abrantes
+0,412,[],19,Saint Thomas
+0,2901,[],176,Centro
+0,576,[],34,Bam
+0,2906,[],176,Lisboa e Vale do Tejo
+0,581,[],34,Comoe
+0,2978,[],181,Aga
+0,586,[],34,Ioba
+0,2983,[],181,Astrahan
+0,591,[],34,Kossi
+0,2988,[],181,Chechenija
+0,596,[],34,Nahouri
+0,2993,[],181,Dagestan
+0,601,[],34,Passore
+0,2998,[],181,Hanty-Mansija
+0,606,[],34,Sissili
+0,3003,[],181,Jaroslavl
+0,611,[],34,Yatenga
+0,3008,[],181,Kaluga
+0,678,[],39,Fogo
+0,3013,[],181,Khabarovskiy Kray
+0,683,[],39,Sao Tiago
+0,3018,[],181,Kostroma
+0,734,[],44,Aomen
+0,3023,[],181,Kursk
+0,739,[],44,Fujian Sheng
+0,3028,[],181,Mordovija
+0,744,[],44,Guizhou
+0,749,[],44,Hubei
+0,3033,[],181,Murmansk
+0,754,[],44,Jilin
+0,3038,[],181,Novosibirsk
+0,759,[],44,Qinghai
+0,3043,[],181,Perm
+0,764,[],44,Shanxi
+0,3048,[],181,Rostov
+0,769,[],44,Xizang
+0,3053,[],181,Sankt-Peterburg
+0,812,[],49,Brazzaville
+0,3058,[],181,Tajmyrija
+0,817,[],49,Niari
+0,3063,[],181,Tula
+0,871,[],54,Dubrovnik-Neretva
+0,876,[],54,Krapina-Zagorje
+0,3068,[],181,Ulyanovskaya Oblast
+0,881,[],54,Osjecko-Baranjska Zupanija
+0,3073,[],181,Voronezh
+0,3148,[],191,Ash Sharqiyah
+0,886,[],54,Slavonski Brod-Posavina
+0,891,[],54,Zadar
+0,3153,[],191,Jawf
+0,967,[],59,Tajurah
+0,3158,[],191,Tabuk
+0,1047,[],64,"Bur Sa''id"
+0,3163,[],191,ar-Riyad
+0,1052,[],64,Muhafazat ad Daqahliyah
+0,3224,[],201,Bari
+0,1057,[],64,Qina
+0,3229,[],201,Jubbada Hose
+0,1062,[],64,al-Bahr-al-Ahmar
+0,3234,[],201,Shabellaha Dhexe
+0,1067,[],64,al-Ismailiyah
+0,3321,[],206,Anuradhapuraya
+0,3326,[],206,Gampaha
+0,1072,[],64,al-Qalyubiyah
+0,1119,[],69,Addis Abeba
+0,3331,[],206,Kurunegala
+0,1124,[],69,Gambella
+0,3336,[],206,Matale
+0,1129,[],69,Somali
+0,3341,[],206,North Western Province
+0,1153,[],74,Etela-Pohjanmaa
+0,3346,[],206,Southern Province
+0,1158,[],74,Kainuu
+0,3351,[],206,Yapanaya
+0,1163,[],74,Lansi-Suomen Laani
+0,3398,[],211,Bohuslan
+0,1168,[],74,Paijat-Hame
+0,3403,[],211,Halland
+0,1173,[],74,Pohjois-Savo
+0,3408,[],211,Kronoberg
+0,3413,[],211,Skane
+0,1178,[],74,Uleaborgs Lan
+0,3418,[],211,Varmland
+0,1327,[],79,Moyen-Ogooue
+0,1332,[],79,Ogooue-Maritime
+0,167,[],4,Western
+0,3423,[],211,Vastra Gotaland
+0,3509,[],216,Kagera
+0,1509,[],89,Barrigada
+0,197,[],8,Sector claimed by France
+0,3514,[],216,Mbeya
+0,1514,[],89,Mangilao
+0,3519,[],216,Rukwa
+0,246,[],13,Australian Capital Territory
+0,1519,[],89,Talofofo
+0,3524,[],216,Tanga
+0,1598,[],94,Cuyuni-Mazaruni
+0,251,[],13,Bonnet Bay
+0,3620,[],221,Couva-Tabaquite-Talparo
+0,1603,[],94,Pomeroon-Supenaam
+0,256,[],13,Chatswood
+0,3625,[],221,Port of Spain
+0,1638,[],99,Baranya
+0,261,[],13,Frenchs Forest
+0,3630,[],221,Sangre Grande
+0,1643,[],99,Fejer
+0,266,[],13,New South Wales
+0,3756,[],226,Nanumea
+0,1648,[],99,Komarom-Esztergom
+0,271,[],13,Tasmania
+0,3761,[],226,Vaitupu
+0,1653,[],99,Tolna
+0,276,[],13,Wheeler
+0,3923,[],231,Byram
+0,1730,[],104,Baghdad
+0,341,[],18,Bhola
+0,3928,[],231,Delaware
+0,1735,[],104,Irbil
+0,346,[],18,Chittagong Division
+0,3933,[],231,Idaho
+0,1740,[],104,Salah-ad-Din
+0,351,[],18,Feni
+0,3938,[],231,Kentucky
+0,1745,[],104,al-Qadisiyah
+0,356,[],18,Jaipur Hat
+0,3943,[],231,Massachusetts
+0,1919,[],109,Akita
+0,3948,[],231,Missouri
+0,361,[],18,Khagrachhari
+0,1924,[],109,Fukuoka
+0,366,[],18,Kurigram
+0,3953,[],231,New Jersey
+0,1929,[],109,Hokkaido
+0,371,[],18,Magura
+0,1934,[],109,Kagawa
+0,3958,[],231,North Dakota
+0,376,[],18,Munshiganj
+0,1939,[],109,Kumamoto
+0,3963,[],231,Pennsylvania
+0,381,[],18,Naugaon
+0,1944,[],109,Nagano
+0,3968,[],231,Sublimity
+0,386,[],18,Pabna
+0,1949,[],109,Okayama
+0,3973,[],231,Vermont
+0,391,[],18,Rajshahi
+0,1954,[],109,Shiga
+0,3978,[],231,Wyoming
+0,396,[],18,Sherpur
+0,1959,[],109,Tokyo
+0,4111,[],246,Bulawayo
+0,401,[],18,Thakurgaon
+0,1964,[],109,Yamaguchi
+0,4116,[],246,Mashonaland West
+0,2015,[],114,Arorae
+0,110,[],3,Ayn Daflah
+0,449,[],23,Collines
+0,2020,[],114,Kuria
+0,115,[],3,Bashshar
+0,454,[],23,Oueme
+0,2025,[],114,Nonouti
+0,120,[],3,Buirah
+0,490,[],28,Central Mahalapye
+0,2030,[],114,Tabuaeran
+0,125,[],3,Ilizi
+0,495,[],28,Gaborone
+0,2100,[],119,Attopu
+0,130,[],3,Midyah
+0,500,[],28,Kgatleng
+0,2105,[],119,Khammouane
+0,135,[],3,Oran
+0,505,[],28,North East
+0,2110,[],119,Saravan
+0,140,[],3,Satif
+0,510,[],28,Sowa
+0,145,[],3,Tibazah
+0,2115,[],119,Xaignabury
+0,549,[],33,Haskovo
+0,150,[],3,Tiyarat
+0,554,[],33,Montana
+0,2185,[],124,Ghadamis
+0,155,[],3,Wilaya d Alger
+0,559,[],33,Plovdiv
+0,160,[],3,"al-Jaza''ir"
+0,2190,[],124,Sawfajjin
+0,564,[],33,Sliven
+0,244,[],12,Aruba
+0,569,[],33,Targovishte
+0,2195,[],124,Tubruq
+0,331,[],17,Mahama
+0,2200,[],124,al-Jabal al Akhdar
+0,574,[],33,Yablaniza
+0,336,[],17,"ar-Rifa''a"
+0,2205,[],124,ash-Shati
+0,667,[],38,Newfoundland and Labrador
+0,443,[],22,Stann Creek
+0,2247,[],129,Debar
+0,672,[],38,Prince Edward Island
+0,542,[],32,Brunei-Muara
+0,2252,[],129,Kavadarci
+0,718,[],43,Antofagasta
+0,655,[],37,Est
+0,2257,[],129,Krushevo
+0,723,[],43,Libertador General Bernardo O
+0,660,[],37,Ouest
+0,2262,[],129,Probishtip
+0,728,[],43,Metropolitana de Santiago
+0,705,[],42,Bourkou-Ennedi-Tibesti
+0,2267,[],129,Struga
+0,710,[],42,Logone Occidental
+0,810,[],48,Nzwani
+0,2272,[],129,Veles
+0,715,[],42,Salamat
+0,854,[],53,Dix-huit Montagnes
+0,2349,[],134,Kidal
+0,778,[],47,Atlantico
+0,859,[],53,Marahoue
+0,2354,[],134,Tombouctou
+0,783,[],47,Caqueta
+0,864,[],53,Savanes
+0,2403,[],139,Hudh-al-Gharbi
+0,788,[],47,Cordoba
+0,869,[],53,Zanzan
+0,2408,[],139,Qurqul
+0,793,[],47,La Guajira
+0,945,[],58,Hovedstaden
+0,2465,[],144,Cahul
+0,798,[],47,Putumayo
+0,950,[],58,Ribe
+0,803,[],47,Sucre
+0,2470,[],144,Lapusna
+0,955,[],58,Sjaelland
+0,2475,[],144,Transnistria
+0,843,[],52,Alajuela
+0,960,[],58,Toelloese
+0,2529,[],149,Manica
+0,848,[],52,Puntarenas
+0,1023,[],63,Bolivar
+0,2534,[],149,Sofala
+0,917,[],57,Jihochesky
+0,1028,[],63,El Oro
+0,2582,[],154,Saba
+0,922,[],57,Liberecky
+0,1033,[],63,Loja
+0,2641,[],159,Dosso
+0,927,[],57,Pardubicky
+0,1038,[],63,Orellana
+0,932,[],57,South Moravian
+0,2646,[],159,Zinder
+0,1043,[],63,Zamora Chinchipe
+0,937,[],57,Valletta
+0,2694,[],164,Finnmark
+0,1108,[],68,Jogeva
+0,1010,[],62,Ainaro
+0,2699,[],164,Nordland
+0,1113,[],68,Rapla
+0,1015,[],62,Dili
+0,2704,[],164,Soer Troendelag
+0,1118,[],68,Voru
+0,1020,[],62,Manufahi
+0,1150,[],73,Western
+0,2709,[],164,Troms
+0,1101,[],67,Gash-Barka
+0,1402,[],83,Brong-Ahafo
+0,2764,[],169,Chiriqui
+0,1139,[],72,Nor oy
+0,1407,[],83,Upper East
+0,2769,[],169,Herrera
+0,1144,[],72,Torshavn
+0,1501,[],88,Grande-Terre
+0,2774,[],169,Veraguas
+0,1320,[],77,Tuamotu
+0,1506,[],88,Saint Martin
+0,2933,[],179,Saint-Pierre
+0,1357,[],82,Bayern
+0,1593,[],93,Gabu
+0,3092,[],184,Saint James Windward
+0,1362,[],82,Dreisbach
+0,1700,[],103,Ardabil
+0,3097,[],184,Saint Paul Charlestown
+0,1367,[],82,Hessen
+0,1705,[],103,Esfahan
+0,3131,[],189,Acquaviva
+0,1372,[],82,Land Brandenburg
+0,1710,[],103,Hormozgan
+0,3136,[],189,Fiorentino
+0,1377,[],82,Land Sachsen
+0,1715,[],103,Khuzestan
+0,3178,[],194,Anse Royale
+0,1382,[],82,Mulfingen
+0,1720,[],103,Mazandaran
+0,1387,[],82,Nordrhein-Westfalen
+0,3253,[],204,Central Equatoria
+0,1725,[],103,Sistan-e Baluchestan
+0,1392,[],82,Saarland
+0,3474,[],214,Eastern Taipei
+0,1904,[],108,Clarendon
+0,1397,[],82,Thuringia
+0,3479,[],214,Kaohsiung Hsien
+0,1909,[],108,Saint Andrews
+0,1494,[],87,Saint Andrew
+0,3484,[],214,Nantou
+0,1914,[],108,Saint Mary
+0,1499,[],87,Saint Patrick
+0,3489,[],214,Taichung Hsien
+0,1561,[],92,Coyah
+0,2005,[],113,Coast
+0,3494,[],214,Taipei Shih / Taipei Hsien
+0,1566,[],92,Forecariah
+0,2010,[],113,Rift Valley
+0,3499,[],214,Yunlin
+0,1571,[],92,Kerouane
+0,2095,[],118,Issyk-Kul
+0,3747,[],224,Asgabat
+0,1576,[],92,Kouroussa
+0,2169,[],123,Bomi
+0,3796,[],229,Abu Zabi
+0,1581,[],92,Mamou
+0,2174,[],123,Loffa
+0,1586,[],92,Telimele
+0,3801,[],229,Sharjha
+0,2179,[],123,Rivercess
+0,1619,[],97,Colon
+0,4000,[],234,Buhoro
+0,2327,[],133,Baa
+0,1624,[],97,El Paraiso
+0,4005,[],234,Kaskadar
+0,2332,[],133,Ghaviyani
+0,1629,[],97,La Paz
+0,4010,[],234,Sirdare
+0,1634,[],97,Valle
+0,2337,[],133,Lhaviyani
+0,4066,[],239,Tortola
+0,1669,[],102,Banten
+0,2342,[],133,Shaviyani
+0,1674,[],102,Jambi
+0,4100,[],244,Serbia
+0,2396,[],138,La Trinite
+0,77,[],2,Devoll
+0,1679,[],102,Kalimantan Selatan
+0,82,[],2,Gjirokaster
+0,2462,[],143,Pohnpei
+0,1684,[],102,Maluku
+0,87,[],2,Korce
+0,2507,[],148,Doukkala-Abda
+0,1689,[],102,Riau
+0,92,[],2,Lezhe
+0,2512,[],148,Marrakech-Tensift-Al Haouz
+0,1694,[],102,Sulawesi Tenggara
+0,97,[],2,Mat
+0,2517,[],148,Rabat-Sale-Zammour-Zaer
+0,1699,[],102,Yogyakarta
+0,102,[],2,Puke
+0,2522,[],148,Tangier-Tetouan
+0,1806,[],107,Ancona
+0,107,[],2,Tirane
+0,2567,[],153,Bheri
+0,1811,[],107,Bari
+0,177,[],6,Bie
+0,2572,[],153,Koshi
+0,1816,[],107,Biella
+0,182,[],6,Kuando-Kubango
+0,2577,[],153,Rapti
+0,1821,[],107,Calabria
+0,187,[],6,Lunda Sul
+0,2624,[],158,Boaco
+0,1826,[],107,Chieti
+0,192,[],6,Zaire
+0,2629,[],158,Granada
+0,1831,[],107,Emilia-Romagna
+0,236,[],11,Kotaik
+0,2634,[],158,Masaya
+0,1836,[],107,Friuli-Venezia Giulia
+0,241,[],11,Tavush
+0,2686,[],163,Northern Islands
+0,1841,[],107,Lazio
+0,2747,[],168,Bayt Lahm
+0,1846,[],107,Lodi
+0,312,[],16,Andros
+0,2752,[],168,Janin
+0,1851,[],107,Marche
+0,317,[],16,Eleuthera
+0,1856,[],107,Molteno
+0,2757,[],168,Ram Allah wal-Birah
+0,322,[],16,Mayaguana
+0,1861,[],107,Padova
+0,2762,[],168,al-Quds
+0,422,[],21,Antwerpen
+0,1866,[],107,Piacenza
+0,2840,[],173,Caraga
+0,427,[],21,East Flanders
+0,1871,[],107,Potenza
+0,2845,[],173,Davao
+0,432,[],21,Namur
+0,1876,[],107,Salerno
+0,2850,[],173,Luzon
+0,437,[],21,Wallonne
+0,1881,[],107,Siena
+0,2855,[],173,Southern Mindanao
+0,480,[],26,La Paz
+0,1886,[],107,Torino
+0,2921,[],178,Jarian-al-Batnah
+0,485,[],26,Tarija
+0,1891,[],107,Treviso
+0,2926,[],178,al-Khawr
+0,632,[],36,Kampong Chhnang
+0,1896,[],107,Veneto
+0,3085,[],183,Gough Island
+0,637,[],36,Kaoh Kong
+0,1901,[],107,Vicenza
+0,3122,[],188,Atua
+0,642,[],36,Mondol Kiri
+0,1992,[],112,Almati
+0,3127,[],188,"Satupa''itea"
+0,647,[],36,Prey Veaeng
+0,1997,[],112,Kostanay
+0,3175,[],193,Kosovo and Metohija
+0,652,[],36,Takaev
+0,2002,[],112,Soltustik Kazakstan
+0,3198,[],198,Jugovzhodna Slovenija
+0,690,[],41,Haute-Kotto
+0,2085,[],117,Qadesiya
+0,3203,[],198,Obcina Vitanje
+0,695,[],41,Nana-Gribizi
+0,2090,[],117,al-Jahra
+0,3208,[],198,Slovenian Littoral
+0,700,[],41,Ouham-Pende
+0,2162,[],122,Mafeteng
+0,3382,[],208,Commewijne
+0,2167,[],122,Quthing
+0,833,[],51,Atiu
+0,3387,[],208,Paramaribo
+0,2234,[],127,Echternach
+0,838,[],51,Nassau
+0,2239,[],127,Redange
+0,3458,[],213,Dayr-az-Zawr
+0,909,[],56,Government controlled area
+0,2308,[],132,Kedah
+0,3463,[],213,Idlib
+0,979,[],61,Azua
+0,2313,[],132,Negeri Johor
+0,3468,[],213,al-Qunaytirah
+0,984,[],61,Duarte
+0,2318,[],132,Perlis
+0,3606,[],218,Maritime
+0,989,[],61,Independencia
+0,2323,[],132,Sembilan
+0,3665,[],223,Afyon
+0,994,[],61,Monsenor Nouel
+0,2373,[],137,Aur
+0,999,[],61,Puerto Plata
+0,3670,[],223,Antalya
+0,2378,[],137,Jaluit
+0,1004,[],61,San Pedro de Macoris
+0,3675,[],223,Bartin
+0,2383,[],137,Likiep
+0,1091,[],66,Annobon
+0,3680,[],223,Bitlis
+0,2388,[],137,Namorik
+0,1096,[],66,Litoral
+0,3685,[],223,Cankiri
+0,2393,[],137,Wotho
+0,1316,[],76,Saint-Laurent-du-Maroni
+0,3690,[],223,Edirne
+0,2430,[],142,Campeche
+0,1346,[],81,Kaheti
+0,3695,[],223,Gaziantep
+0,2435,[],142,Distrito Federal
+0,1351,[],81,Samche-Zhavaheti
+0,3700,[],223,Icel
+0,2440,[],142,Hidalgo
+0,1476,[],86,Illoqqortoormiut
+0,3705,[],223,Kahramanmaras
+0,2445,[],142,Nayarit
+0,1481,[],86,Nanortalik
+0,3710,[],223,Kastamonu
+0,2450,[],142,Quintana Roo
+0,1486,[],86,Qaqortoq
+0,2455,[],142,Tamaulipas
+0,3715,[],223,Kirsehir
+0,2503,[],147,Montserrat
+0,1491,[],86,Upernavik
+0,3720,[],223,Malatya
+0,2606,[],157,Canterbury
+0,3725,[],223,Nevsehir
+0,1548,[],91,Saint Andrew
+0,2611,[],157,Marlborough
+0,3730,[],223,Sakarya
+0,1553,[],91,Saint Saviour
+0,2616,[],157,Southland
+0,3735,[],223,Sirnak
+0,1,[],101,Andaman and Nicobar Islands
+0,2621,[],157,West Coast
+0,3740,[],223,Tunceli
+0,6,[],101,Chandigarh
+0,2733,[],167,Hatobohei
+0,3745,[],223,Zonguldak
+0,2738,[],167,Ngardmau
+0,11,[],101,Goa
+0,3770,[],228,Dnipropetrovska
+0,2743,[],167,Ngiwal
+0,16,[],101,Jharkhand
+0,3775,[],228,Khersonska
+0,2814,[],172,Apurimac
+0,21,[],101,Madhya Pradesh
+0,3780,[],228,"Kyyivs''ka"
+0,2819,[],172,Huancavelica
+0,26,[],101,Nagaland
+0,3785,[],228,Odessa
+0,2824,[],172,Lambayeque
+0,31,[],101,Pondicherry
+0,3790,[],228,"Ternopil''s''ka"
+0,2829,[],172,Pasco
+0,36,[],101,Telangana
+0,3795,[],228,"Zhytomyrs''ka"
+0,2834,[],172,Tumbes
+0,41,[],101,West Bengal
+0,3984,[],233,Durazno
+0,2913,[],177,Florida
+0,1784,[],106,Centre
+0,3989,[],233,Montevideo
+0,2918,[],177,Salinas
+0,1789,[],106,Hazafon
+0,3994,[],233,Salto
+0,3077,[],182,Gikongoro
+0,1794,[],106,Kiryat Yam
+0,4044,[],238,Bac Giang
+0,3082,[],182,Kigali-ngali
+0,1799,[],106,Tsafon
+0,4049,[],238,Dong Bang Song Hong
+0,3117,[],187,Saint David
+0,1979,[],111,Irbid
+0,4054,[],238,Hung Yen
+0,3166,[],192,Fatick
+0,1984,[],111,al-Balqa
+0,4059,[],238,Thanh Pho Ho Chi Minh
+0,3171,[],192,Tambacounda
+0,2047,[],116,Busan
+0,4077,[],243,Adan
+0,3189,[],197,Kosicky
+0,2052,[],116,Chungcheongbuk
+0,4082,[],243,Hudaydah
+0,3194,[],197,Zilinsky
+0,2057,[],116,Goyang-si
+0,4087,[],243,"Sa''dah"
+0,2062,[],116,Jeju-Si
+0,3242,[],202,Kramerville
+0,4092,[],243,al-Hudaydah
+0,3247,[],202,Northern Cape
+0,2067,[],116,Kyeongsangbuk
+0,169,[],5,Canillo
+0,3353,[],207,"A''ali-an-Nil"
+0,2072,[],116,Kyunggi-do
+0,174,[],5,Sant Julia de Loria
+0,3358,[],207,Gharb Kurdufan
+0,2077,[],116,Taejeon
+0,205,[],9,Saint Paul
+0,3363,[],207,Kassala
+0,2150,[],121,Beirut
+0,279,[],14,Bundesland Tirol
+0,3368,[],207,"Sharq-al-Istiwa''iyah"
+0,2155,[],121,al-Biqa
+0,284,[],14,Lower Austria
+0,3373,[],207,al-Buhayrat
+0,2219,[],126,Anyksciai
+0,289,[],14,Steiermark
+0,3378,[],207,an-Nil-al-Abyad
+0,2224,[],126,Panevezys
+0,294,[],14,Wien
+0,3426,[],212,Appenzell-Ausser Rhoden
+0,2229,[],126,Utenos
+0,406,[],19,Saint John
+0,3431,[],212,Fribourg
+0,2283,[],131,Chiradzulu
+0,3436,[],212,Jura
+0,411,[],19,Saint Philip
+0,2288,[],131,Kasungu
+0,3441,[],212,Neuchatel
+0,575,[],34,Bale
+0,2293,[],131,Mulanje
+0,3446,[],212,Schwyz
+0,580,[],34,Boulkiemde
+0,2298,[],131,Nkhotakota
+0,3451,[],212,Valais
+0,585,[],34,Houet
+0,2303,[],131,Rumphi
+0,3526,[],217,Amnat Charoen
+0,590,[],34,Kompienga
+0,2363,[],136,Douglas
+0,3531,[],217,Chai Nat
+0,595,[],34,Mouhoun
+0,2368,[],136,Port Saint Mary
+0,3536,[],217,Chiang Rai
+0,600,[],34,Oudalan
+0,2482,[],146,Bajan-Olgij
+0,3541,[],217,Kanchanaburi
+0,605,[],34,Seno
+0,2487,[],146,Dornogovi
+0,3546,[],217,Lamphun
+0,610,[],34,Tuy
+0,2492,[],146,Hovd
+0,3551,[],217,Mukdahan
+0,677,[],39,Brava
+0,2497,[],146,Selenge
+0,3556,[],217,Nakhon Sawan
+0,2502,[],146,Zavhan
+0,3561,[],217,Nong Khai
+0,2556,[],151,Kavango
+0,3566,[],217,Phatthalung
+0,682,[],39,Sao Nicolau
+0,3571,[],217,Phitsanulok
+0,2561,[],151,Omusati
+0,733,[],44,Anhui Sheng
+0,2601,[],156,Nord
+0,3576,[],217,Prachuap Khiri Khan
+0,738,[],44,Fujian
+0,2725,[],166,Federally administered Tribal
+0,3581,[],217,Sa Kaeo
+0,743,[],44,Guangxi
+0,2794,[],171,Alto Paraguay
+0,3586,[],217,Saraburi
+0,748,[],44,Henan
+0,2799,[],171,Caaguazu
+0,3591,[],217,Sukhothai
+0,2804,[],171,Cordillera
+0,753,[],44,Jiangxi
+0,3596,[],217,Trang
+0,2809,[],171,Paraguari
+0,3601,[],217,Uttaradit
+0,758,[],44,Ningxia Hui
+0,2898,[],176,Alentejo
+0,763,[],44,Shanghai
+0,3635,[],222,"Bin ''Arus"
+0,2903,[],176,Distrito de Viana do Castelo
+0,768,[],44,Xinjiang
+0,3640,[],222,Hammamet Yasmine
+0,2908,[],176,Norte
+0,811,[],49,Bouenza
+0,3645,[],222,Nabul
+0,2980,[],181,Altaj
+0,3650,[],222,Sfax
+0,816,[],49,Likouala
+0,2985,[],181,Belgorod
+0,3655,[],222,Tawzar
+0,870,[],54,Bjelovar-Bilogora
+0,2990,[],181,Chita
+0,3660,[],222,al-Munastir
+0,875,[],54,Koprivnica-Krizhevci
+0,2995,[],181,Gorno-Altaj
+0,3764,[],227,Northern
+0,880,[],54,Osijek-Baranja
+0,3000,[],181,Irkutsk
+0,4022,[],237,Apure
+0,885,[],54,Sisak-Moslavina
+0,3005,[],181,Kabardino-Balkarija
+0,4027,[],237,Cojedes
+0,890,[],54,Vukovar-Srijem
+0,3010,[],181,Karachaj-Cherkessija
+0,4032,[],237,Lara
+0,966,[],59,Jibuti
+0,3015,[],181,Komi
+0,4037,[],237,Portuguesa
+0,1046,[],64,Bani Suwayf
+0,3020,[],181,Krasnojarsk
+0,4042,[],237,Yaracuy
+0,1051,[],64,Matruh
+0,3025,[],181,Lipeck
+0,4076,[],242,as-Samarah
+0,1056,[],64,Muhafazat al Qahirah
+0,3030,[],181,Moskovskaja Oblast
+0,46,[],1,Bamiyan
+0,1061,[],64,ad-Daqahliyah
+0,3035,[],181,Nizhnij Novgorod
+0,51,[],1,Herat
+0,1066,[],64,al-Iskandariyah
+0,56,[],1,Khawst
+0,3040,[],181,Orenburg
+0,1071,[],64,al-Qahira
+0,61,[],1,Nimruz
+0,3045,[],181,Pskov
+0,1076,[],64,ash-Sharqiyah
+0,66,[],1,Qandahar
+0,3050,[],181,Sahalin
+0,1123,[],69,Diredawa
+0,71,[],1,Uruzgan
+0,3055,[],181,Smolensk
+0,1128,[],69,Oromia
+0,210,[],10,Chaco
+0,3060,[],181,Tatarstan
+0,215,[],10,Entre Rios
+0,1152,[],74,Etela-Karjala
+0,3065,[],181,Tyva
+0,220,[],10,Mendoza
+0,1157,[],74,Ita-Uusimaa
+0,3070,[],181,Vladimir
+0,225,[],10,San Juan
+0,1162,[],74,Kymenlaakso
+0,3113,[],186,Saint-Pierre
+0,230,[],10,Tierra del Fuego
+0,1167,[],74,Oulun Laani
+0,3150,[],191,Central Province
+0,298,[],15,Ganja
+0,3155,[],191,Makkah
+0,1172,[],74,Pohjois-Pohjanmaa
+0,303,[],15,Nagorni-Qarabax
+0,3160,[],191,al-Bahah
+0,1177,[],74,Tavastia Proper
+0,308,[],15,Sirvan
+0,3221,[],201,Awdal
+0,1326,[],79,Haut-Ogooue
+0,416,[],20,Mahiljow
+0,3226,[],201,Galgudug
+0,1331,[],79,Ogooue-Lolo
+0,421,[],20,Vicebsk
+0,3231,[],201,Mudug
+0,1508,[],89,Agat
+0,463,[],25,Geylegphug
+0,3236,[],201,Togdher
+0,1513,[],89,Inarajan
+0,468,[],25,Punakha
+0,3323,[],206,Boralesgamuwa
+0,1518,[],89,Sinajana
+0,473,[],25,Tashigang
+0,3328,[],206,Kalatura
+0,513,[],30,Alagoas
+0,1597,[],94,Barima-Waini
+0,3333,[],206,Maha Nuwara
+0,518,[],30,Distrito Federal
+0,3338,[],206,Monaragala
+0,1602,[],94,Mahaica-Berbice
+0,523,[],30,Mato Grosso
+0,1637,[],99,Bacs-Kiskun
+0,3343,[],206,Polonnaruwa
+0,528,[],30,Parana
+0,1642,[],99,Csongrad
+0,3348,[],206,Tuscany
+0,533,[],30,Rio de Janeiro
+0,1647,[],99,Jasz-Nagykun-Szolnok
+0,3395,[],211,Alvsborgs Lan
+0,538,[],30,Sergipe
+0,1652,[],99,Szabolcs-Szatmar-Bereg
+0,3400,[],211,Gavleborg
+0,617,[],35,Cankuzo
+0,1729,[],104,Babil
+0,3405,[],211,Jonkoping
+0,622,[],35,Kirundo
+0,1734,[],104,Erbil
+0,3410,[],211,Orebro
+0,627,[],35,Rutana
+0,1739,[],104,Ninawa
+0,3415,[],211,Sodermanland
+0,822,[],50,Bas-Congo
+0,1744,[],104,al-Muthanna
+0,3420,[],211,Vastergotland
+0,827,[],50,Katanga
+0,3506,[],216,Dar es Salaam
+0,1918,[],109,Aichi
+0,893,[],55,Camaguey
+0,3511,[],216,Kilimanjaro
+0,1923,[],109,Fukui
+0,898,[],55,Guantanamo
+0,3516,[],216,Mtwara
+0,1928,[],109,Hiroshima
+0,903,[],55,Las Tunas
+0,3521,[],216,Shinyanga
+0,1933,[],109,Iwate
+0,908,[],55,Villa Clara
+0,3617,[],221,Arima-Tunapuna-Piarco
+0,973,[],60,Saint Joseph
+0,3622,[],221,Glencoe
+0,1938,[],109,Kochi
+0,978,[],60,Saint Peter
+0,3627,[],221,Saint George
+0,1943,[],109,Miyazaki
+0,1081,[],65,La Libertad
+0,3632,[],221,Tobago
+0,1948,[],109,Oita
+0,1086,[],65,San Salvador
+0,3758,[],226,Nui
+0,1953,[],109,Saitama
+0,3920,[],231,Alaska
+0,1132,[],70,Christmas Island
+0,1958,[],109,Tokushima
+0,3925,[],231,Cokato
+0,1183,[],75,Albi Le Sequestre
+0,1963,[],109,Yamagata
+0,3930,[],231,Florida
+0,1188,[],75,Alsace
+0,2014,[],114,Aranuka
+0,3935,[],231,Indiana
+0,1193,[],75,Aube
+0,2019,[],114,Kiritimati
+0,3940,[],231,Lowa
+0,1198,[],75,Basse-Normandie
+0,2024,[],114,Nikunau
+0,3945,[],231,Michigan
+0,1203,[],75,Burgundy
+0,2029,[],114,Tabiteuea South
+0,3950,[],231,Nebraska
+0,1208,[],75,Charente
+0,2034,[],114,Teraina
+0,3955,[],231,New Mexico
+0,1213,[],75,"Cote-d''Or"
+0,2104,[],119,Houaphanh
+0,3960,[],231,Oklahoma
+0,1218,[],75,Dordogne
+0,2109,[],119,Phongsaly
+0,3965,[],231,Rhode Island
+0,1223,[],75,Eure-et-Loir
+0,2114,[],119,Viangchan Province
+0,1228,[],75,Gers
+0,3970,[],231,Texas
+0,1233,[],75,Haute-Loire
+0,2184,[],124,Darnah
+0,3975,[],231,Washington
+0,1238,[],75,Hautes-Alpes
+0,2189,[],124,Sabha
+0,4070,[],241,Alo
+0,1243,[],75,Ille-et-Vilaine
+0,4113,[],246,Manicaland
+0,2194,[],124,Tripolitania
+0,1248,[],75,Klagenfurt
+0,4118,[],246,Matabeleland North
+0,2199,[],124,al-Fatih
+0,1253,[],75,Le Creusot
+0,2204,[],124,an-Nuqat al-Khams
+0,112,[],3,Adrar
+0,1258,[],75,Loiret
+0,2246,[],129,Brod
+0,117,[],3,Bijayah
+0,1263,[],75,Lozere
+0,122,[],3,Burj Bu Arririj
+0,1268,[],75,Meurthe-et-Moselle
+0,2251,[],129,Gostivar
+0,127,[],3,Jilfah
+0,1273,[],75,Nievre
+0,2256,[],129,Kriva Palanka
+0,132,[],3,Muaskar
+0,1278,[],75,Paris
+0,2261,[],129,Prilep
+0,137,[],3,Qalmah
+0,1283,[],75,Puy-de-Dome
+0,2266,[],129,Skopje
+0,142,[],3,"Sidi ban-al-''Abbas"
+0,1288,[],75,Rhone-Alpes
+0,2271,[],129,Valandovo
+0,147,[],3,Tilimsan
+0,1293,[],75,Savoie
+0,152,[],3,Umm-al-Bawaghi
+0,2348,[],134,Kayes
+0,1298,[],75,Sophia Antipolis
+0,157,[],3,Wilaya de Constantine
+0,2353,[],134,Sikasso
+0,1303,[],75,Treignac
+0,162,[],3,ash-Shalif
+0,1308,[],75,Vaucluse
+0,2402,[],139,Dhakhlat Nawadibu
+0,328,[],17,Badiyah
+0,1313,[],75,Yonne
+0,2407,[],139,Qidimagha
+0,333,[],17,Sitrah
+0,1337,[],80,Janjanbureh
+0,2464,[],144,Balti
+0,440,[],22,Cayo
+0,1412,[],85,Acharnes
+0,2469,[],144,Gagauzia
+0,486,[],27,Federacija Bosna i Hercegovina
+0,1417,[],85,Arta
+0,2474,[],144,Tighina
+0,544,[],32,Tutong
+0,1422,[],85,Dodekanisos
+0,2528,[],149,Inhambane
+0,657,[],37,Nord
+0,1427,[],85,Evvoia
+0,2533,[],149,Niassa
+0,1432,[],85,Halandri
+0,662,[],37,Sudouest
+0,2581,[],154,Curacao
+0,1437,[],85,Ilia
+0,707,[],42,Guera
+0,1442,[],85,Kastoria
+0,712,[],42,Mayo-Kebbi
+0,2640,[],159,Diffa
+0,1447,[],85,Kilkis
+0,775,[],47,Amazonas
+0,2645,[],159,Tillabery
+0,1452,[],85,Lasithi
+0,780,[],47,Bolivar
+0,2693,[],164,Buskerud
+0,1457,[],85,Nomos Attikis
+0,785,[],47,Cauca
+0,2698,[],164,Nord Trondelag
+0,1462,[],85,Preveza
+0,790,[],47,Guainia
+0,2703,[],164,Rogaland
+0,1467,[],85,Thesprotia
+0,795,[],47,Meta
+0,2708,[],164,Telemark
+0,1472,[],85,Xanthi
+0,800,[],47,Risaralda
+0,2763,[],169,Bocas del Toro
+0,1526,[],90,Chiquimula
+0,805,[],47,Valle del Cauca
+0,2768,[],169,Embera
+0,1531,[],90,Izabal
+0,845,[],52,Guanacaste
+0,2773,[],169,Panama
+0,1536,[],90,Quiche
+0,914,[],57,Central Bohemian
+0,2932,[],179,Saint-Paul
+0,1541,[],90,Solola
+0,919,[],57,Karlovarsky
+0,3091,[],184,Saint George Gingerland
+0,1608,[],95,Centre
+0,924,[],57,Moravskoslezsky
+0,1613,[],95,Ouest
+0,929,[],57,Praha
+0,3096,[],184,Saint Paul Capesterre
+0,1659,[],100,Hofu borgarsva i
+0,934,[],57,Stredochesky
+0,3101,[],184,Trinity Palmetto Point
+0,1664,[],100,Vestfir ir
+0,939,[],57,Vysochina
+0,3135,[],189,Faetano
+0,1752,[],105,Clare
+0,1012,[],62,Baucau
+0,3177,[],194,Anse Boileau
+0,1757,[],105,Kerry
+0,1017,[],62,Lautem
+0,3211,[],199,Pitcairn
+0,1762,[],105,Leitrim
+0,1098,[],67,Anseba
+0,3473,[],214,Chiayi Shih
+0,1767,[],105,Mayo
+0,1103,[],67,Semien-Keih-Bahri
+0,3478,[],214,Ilan
+0,1772,[],105,Sligo
+0,1141,[],72,Streymoy
+0,3483,[],214,Miaoli
+0,1777,[],105,Westmeath
+0,1317,[],77,Iles du Vent
+0,3488,[],214,Taichung
+0,1968,[],110,Saint Clement
+0,1354,[],82,Auvergne
+0,1973,[],110,Saint Mary
+0,1359,[],82,Berlin
+0,3493,[],214,Taipei Hsien
+0,2036,[],115,Hamgyeongbukto
+0,1364,[],82,Hamburg
+0,3498,[],214,Yun-Lin Hsien
+0,2041,[],115,Kangweon
+0,1369,[],82,Laasdorf
+0,3746,[],224,Ahal
+0,2046,[],115,Yanggang
+0,1374,[],82,Land Mecklenburg-Vorpommern
+0,3751,[],224,Mari
+0,2121,[],120,Cesu
+0,1379,[],82,Land Thuringen
+0,3800,[],229,Sharjah
+0,2126,[],120,Jekabspils
+0,1384,[],82,Neubeuern
+0,3999,[],234,Andijon
+0,2131,[],120,Kuldigas
+0,1389,[],82,Osterode
+0,4004,[],234,Horazm
+0,1394,[],82,Sachsen-Anhalt
+0,2136,[],120,Madonas
+0,4009,[],234,Samarkand
+0,1399,[],82,Weinstrabe
+0,2141,[],120,Riga
+0,4065,[],239,Jost van Dyke
+0,2146,[],120,Valkas
+0,1496,[],87,"Saint George''s"
+0,4099,[],244,Republic of Serbia
+0,2208,[],125,Eschen
+0,1558,[],92,Boffa
+0,76,[],2,Delvine
+0,2213,[],125,Schaan
+0,1563,[],92,Dalaba
+0,81,[],2,Fier
+0,2274,[],130,Antananarivo
+0,1568,[],92,Gaoual
+0,86,[],2,Kolonje
+0,2279,[],130,Toliary
+0,1573,[],92,Kissidougou
+0,91,[],2,Kurbin
+0,2359,[],135,South Eastern
+0,1578,[],92,Lola
+0,2414,[],140,Flacq
+0,1583,[],92,Nzerekore
+0,96,[],2,Malsi e Madhe
+0,1588,[],92,Yomou
+0,101,[],2,Pogradec
+0,2419,[],140,Plaines Wilhelm
+0,1621,[],97,Copan
+0,106,[],2,Tepelene
+0,2424,[],140,Savanne
+0,1626,[],97,Gracias a Dios
+0,2537,[],150,Ayeyarwady
+0,176,[],6,Benguela
+0,1631,[],97,Ocotepeque
+0,2542,[],150,Kayin
+0,181,[],6,Huila
+0,1666,[],102,Aceh
+0,2547,[],150,Rakhine
+0,186,[],6,Lunda Norte
+0,1671,[],102,Gandaria
+0,2585,[],155,Amsterdam
+0,191,[],6,Uige
+0,1676,[],102,Jawa Tengah
+0,2590,[],155,Gelderland
+0,235,[],11,Gegharkunik
+0,1681,[],102,Kalimantan Timur
+0,2595,[],155,Overijssel
+0,240,[],11,Syunik
+0,1686,[],102,Nusa Tenggara Barat
+0,2647,[],160,Abia
+0,311,[],16,Acklins Island
+0,1691,[],102,Solo
+0,2652,[],160,Bauchi
+0,316,[],16,Crooked Island
+0,1696,[],102,Sumatera Barat
+0,2657,[],160,Delta
+0,321,[],16,Long Island
+0,1803,[],107,Abruzzo
+0,2662,[],160,Gombe
+0,1808,[],107,Ascoli Piceno
+0,2667,[],160,Katsina
+0,326,[],16,San Salvador
+0,1813,[],107,Belluno
+0,2672,[],160,Nassarawa
+0,426,[],21,Brussel
+0,1818,[],107,Bolzano
+0,2677,[],160,Oyo
+0,431,[],21,Luxembourg
+0,1823,[],107,Cartoceto
+0,2682,[],160,Yobe
+0,436,[],21,Vlaams-Brabant
+0,1828,[],107,Cosenza
+0,2716,[],165,Musandam
+0,479,[],26,Cochabamba
+0,1833,[],107,Firenze
+0,2721,[],165,al-Batinah
+0,484,[],26,Santa Cruz
+0,1838,[],107,Genoa
+0,2778,[],170,Enga
+0,631,[],36,Kampong Cham
+0,1843,[],107,Lecco
+0,2783,[],170,Milne Bay
+0,636,[],36,Kandal
+0,1848,[],107,Lombardy
+0,2788,[],170,Oro
+0,641,[],36,Krong Preah Sihanouk
+0,1853,[],107,Milan
+0,2793,[],170,Western Highlands
+0,646,[],36,Preah Vihear
+0,1858,[],107,Monza and Brianza
+0,2864,[],175,Hopowo
+0,1863,[],107,Pavia
+0,651,[],36,Svay Rieng
+0,2869,[],175,Lodzkie
+0,1868,[],107,Piemonte
+0,689,[],41,Haut-Mbomou
+0,2874,[],175,Mazowieckie
+0,1873,[],107,Reggio Emilia
+0,694,[],41,Mbomou
+0,2879,[],175,Podlaskie
+0,1878,[],107,Sassari
+0,699,[],41,Ouham
+0,2884,[],175,Rymanowska
+0,1883,[],107,South Tyrol
+0,832,[],51,Aitutaki
+0,2889,[],175,Warminsko-Mazurskie
+0,1888,[],107,Trapani
+0,2894,[],175,Zachodnio-Pomorskie
+0,837,[],51,Mitiaro
+0,1893,[],107,Umbria
+0,2937,[],180,Bacau
+0,842,[],51,Tongareva
+0,1898,[],107,Verbano-Cusio-Ossola
+0,913,[],56,Turkish controlled area
+0,2942,[],180,Brasov
+0,2947,[],180,Cluj
+0,1989,[],112,Akmecet
+0,983,[],61,Distrito Nacional
+0,988,[],61,Hato Mayor
+0,1994,[],112,Batis Kazakstan
+0,2952,[],180,Galati
+0,993,[],61,Maria Trinidad Sanchez
+0,1999,[],112,Ontustik Kazakstan
+0,2957,[],180,Ialomita
+0,998,[],61,Peravia
+0,2082,[],117,Al Asimah
+0,2962,[],180,Mures
+0,1003,[],61,San Juan
+0,2087,[],117,Salmiya
+0,2967,[],180,Satu Mare
+0,1008,[],61,Valverde
+0,2159,[],122,Berea
+0,2972,[],180,Timis
+0,1095,[],66,Kie-Ntem
+0,2164,[],122,"Mohale''s Hoek"
+0,3102,[],185,Anse-la-Raye
+0,1315,[],76,Cayenne
+0,2231,[],127,Capellen
+0,3107,[],185,Gros Inlet
+0,1345,[],81,Imereti
+0,2236,[],127,Grevenmacher
+0,3140,[],190,Agua Grande
+0,2241,[],127,Vianden
+0,1350,[],81,Samagrelo-Zemo Svaneti
+0,3145,[],190,Pague
+0,2310,[],132,Kuala Lumpur
+0,1475,[],86,Ammassalik
+0,3212,[],200,Central
+0,2315,[],132,Pahang
+0,3217,[],200,Malaita
+0,1480,[],86,Maniitsoq
+0,2320,[],132,Sabah
+0,1485,[],86,Qaanaaq
+0,3255,[],205,Alacant
+0,2370,[],137,Ailinlaplap
+0,1490,[],86,Udenfor kommunal inddeling
+0,3260,[],205,Asturias
+0,2375,[],137,Ebon
+0,1547,[],91,Forest
+0,3265,[],205,Bertamirans
+0,2380,[],137,Kwajalein
+0,1552,[],91,Saint Sampson
+0,2385,[],137,Maloelap
+0,3270,[],205,Cantabria
+0,1616,[],96,Heard and McDonald Islands
+0,2390,[],137,Rongelap
+0,3275,[],205,Comunidad Autonoma de Canarias
+0,5,[],101,Bihar
+0,2427,[],142,Aguascalientes
+0,3280,[],205,Comunidad Valenciana
+0,10,[],101,Delhi
+0,2432,[],142,Chihuahua
+0,3285,[],205,Granada
+0,15,[],101,Jammu and Kashmir
+0,2437,[],142,Estado de Mexico
+0,3290,[],205,Jaen
+0,20,[],101,Lakshadweep
+0,2442,[],142,Mexico
+0,3295,[],205,Lleida
+0,2447,[],142,Oaxaca
+0,25,[],101,Mizoram
+0,3300,[],205,Murcia
+0,2452,[],142,Sinaloa
+0,30,[],101,Paschim Medinipur
+0,3305,[],205,Pontevedra
+0,2457,[],142,Veracruz
+0,35,[],101,Tamil Nadu
+0,3310,[],205,Soria
+0,2603,[],157,Area Outside Region
+0,40,[],101,Vaishali
+0,3315,[],205,Valencia
+0,2608,[],157,Gisborne
+0,1783,[],106,Caesarea
+0,3391,[],210,Hhohho
+0,2613,[],157,Northland
+0,3501,[],215,Gorno-Badakhshan
+0,1788,[],106,Hamerkaz
+0,2618,[],157,Tasman
+0,3613,[],220,"Ha''apai"
+0,1793,[],106,Khefa
+0,2730,[],167,Aimeliik
+0,3753,[],225,South Caicos and East Caicos
+0,1798,[],106,Tel Aviv
+0,2735,[],167,Koror
+0,3809,[],230,Bedfordshire
+0,1978,[],111,Amman
+0,2740,[],167,Ngatpang
+0,3814,[],230,Bridgnorth
+0,2745,[],167,Sonsorol
+0,1983,[],111,"al-''Aqabah"
+0,3819,[],230,Channel Islands
+0,2816,[],172,Ayacucho
+0,1988,[],111,az-Zarqa
+0,3824,[],230,Cornwall
+0,2821,[],172,Ica
+0,2051,[],116,Chungbuk
+0,3829,[],230,Derby
+0,2826,[],172,Loreto
+0,2056,[],116,Gangwon-do
+0,3834,[],230,Dorset
+0,2831,[],172,Puno
+0,2061,[],116,Incheon
+0,3839,[],230,East Midlands
+0,2910,[],177,Arecibo
+0,2066,[],116,Kyeonggi
+0,3844,[],230,Fermanagh
+0,2915,[],177,Humacao
+0,2071,[],116,Kyunggi-Do
+0,3849,[],230,Glocestershire
+0,3074,[],182,Butare
+0,3854,[],230,Hertfordshire
+0,2076,[],116,Taegu
+0,3079,[],182,Gitarama
+0,3859,[],230,Kent
+0,3114,[],187,Charlotte
+0,2081,[],116,gwangyoksi
+0,3864,[],230,Lincolnshire
+0,3119,[],187,Saint Patrick
+0,2154,[],121,Sidon
+0,3869,[],230,Mayfair
+0,3168,[],192,Kolda
+0,3874,[],230,Monmouthshire
+0,3173,[],192,Ziguinchor
+0,2218,[],126,Alytaus
+0,3879,[],230,Northamptonshire
+0,3191,[],197,Presovsky
+0,2223,[],126,Panevezhio
+0,2228,[],126,Telsiai
+0,3884,[],230,Oxford
+0,3239,[],202,Free State
+0,2282,[],131,Chikwawa
+0,3889,[],230,Scotland
+0,3244,[],202,Limpopo
+0,3894,[],230,South Wales
+0,2287,[],131,Karonga
+0,3249,[],202,Table View
+0,3899,[],230,Suffolk
+0,3355,[],207,Central Equatoria
+0,2292,[],131,Mchinji
+0,3904,[],230,Tyrone
+0,2297,[],131,Nkhata Bay
+0,3360,[],207,Janub Darfur
+0,3909,[],230,West Midlands
+0,2302,[],131,Phalombe
+0,3365,[],207,Shamal Bahr-al-Ghazal
+0,3914,[],230,Wokingham
+0,2362,[],136,Castletown
+0,4013,[],235,Malampa
+0,3370,[],207,Warab
+0,2367,[],136,Port Erin
+0,4018,[],235,Torba
+0,3375,[],207,al-Khartum
+0,2481,[],146,Arhangaj
+0,4103,[],245,Copperbelt
+0,2486,[],146,Dornod
+0,3380,[],207,ash-Shamaliyah
+0,4108,[],245,Northern
+0,2491,[],146,Hentij
+0,3428,[],212,Basel-Stadt
+0,2496,[],146,Ovorhangaj
+0,3433,[],212,Glarus
+0,2501,[],146,Uvs
+0,3438,[],212,Luzern
+0,2555,[],151,Karas
+0,3443,[],212,Obwalden
+0,2560,[],151,Omaheke
+0,3448,[],212,Thurgau
+0,2600,[],156,Iles
+0,3453,[],212,Vauffelin
+0,3528,[],217,Bangkok
+0,2724,[],166,Federal Capital Area
+0,3533,[],217,Changwat Chaiyaphum
+0,2729,[],166,Sind
+0,3538,[],217,Chumphon
+0,2798,[],171,Boqueron
+0,3543,[],217,Krabi
+0,2803,[],171,Concepcion
+0,3548,[],217,Lop Buri
+0,2808,[],171,Neembucu
+0,3553,[],217,Nakhon Pathom
+0,2897,[],176,Acores
+0,3558,[],217,Nan
+0,2902,[],176,Distrito de Leiria
+0,3563,[],217,Pathum Thani
+0,3568,[],217,Phetchabun
+0,2907,[],176,Madeira
+0,3573,[],217,Phrae
+0,2979,[],181,Alanija
+0,2984,[],181,Bashkortostan
+0,3578,[],217,Ratchaburi
+0,3583,[],217,Samut Prakan
+0,2989,[],181,Cheljabinsk
+0,3588,[],217,Si Sa Ket
+0,2994,[],181,Evenkija
+0,3593,[],217,Surat Thani
+0,2999,[],181,Ingusetija
+0,3598,[],217,Ubon Ratchathani
+0,3004,[],181,Jevrej
+0,3603,[],217,Yasothon
+0,3009,[],181,Kamchatka
+0,3637,[],222,Gouvernorat de Ariana
+0,3014,[],181,Kirov
+0,3642,[],222,Madaniyin
+0,3019,[],181,Krasnodar
+0,3647,[],222,Qafsah
+0,3024,[],181,Leningrad
+0,3652,[],222,Silyanah
+0,3029,[],181,Moscow
+0,3657,[],222,Zaghwan
+0,3034,[],181,Nenets
+0,3662,[],222,al-Qayrawan
+0,3039,[],181,Omsk
+0,3979,[],232,United States Minor Outlying I
+0,165,[],4,"Manu''a"
+0,3044,[],181,Primorje
+0,4024,[],237,Barinas
+0,3049,[],181,Saha
+0,199,[],8,Sector claimed by Norway
+0,4029,[],237,Distrito Federal
+0,3054,[],181,Saratov
+0,248,[],13,Balmain
+0,4034,[],237,Miranda
+0,3059,[],181,Tambov
+0,253,[],13,Carole Park
+0,4039,[],237,Tachira
+0,3064,[],181,Tver
+0,258,[],13,Cherrybrook
+0,4073,[],242,Bu Jaydur
+0,3069,[],181,Ust-Orda
+0,263,[],13,Jannnali
+0,43,[],1,Badgis
+0,3112,[],186,Miquelon-Langlade
+0,268,[],13,Perth
+0,48,[],1,Faryab
+0,3149,[],191,Asir
+0,273,[],13,Victoria
+0,53,[],1,Jawzjan
+0,3154,[],191,Jizan
+0,338,[],18,Bandarban
+0,58,[],1,Lagman
+0,343,[],18,Brahman Bariya
+0,3159,[],191,Western Province
+0,63,[],1,Paktika
+0,348,[],18,Dhaka
+0,3186,[],196,Singapore
+0,68,[],1,Samangan
+0,353,[],18,Gazipur
+0,3225,[],201,Bay
+0,73,[],1,Zabul
+0,358,[],18,Jessor
+0,3230,[],201,Jubbadha Dexe
+0,212,[],10,Cordoba
+0,363,[],18,Kishorganj
+0,217,[],10,Jujuy
+0,3235,[],201,Shabellaha Hose
+0,368,[],18,Lakshmipur
+0,222,[],10,Neuquen
+0,3322,[],206,Badulla
+0,373,[],18,Manikganj
+0,227,[],10,Santa Cruz
+0,3327,[],206,Hambantota
+0,378,[],18,Narayanganj
+0,295,[],15,Abseron
+0,3332,[],206,Madakalpuwa
+0,300,[],15,Lankaran
+0,383,[],18,Netrakona
+0,305,[],15,Priaraks
+0,3337,[],206,Matara
+0,388,[],18,Patuakhali
+0,413,[],20,Brest
+0,3342,[],206,Nuwara Eliya
+0,393,[],18,Rangpur
+0,418,[],20,Minsk
+0,3347,[],206,Tirikunamalaya
+0,398,[],18,Sirajganj
+0,460,[],25,Chhukha
+0,3352,[],206,kadawatha
+0,446,[],23,Atacora
+0,465,[],25,Lhuntshi
+0,3399,[],211,Dalarna
+0,470,[],25,Samchi
+0,451,[],23,Donga
+0,3404,[],211,Jamtland
+0,456,[],23,Zou
+0,475,[],25,Tongsa
+0,3409,[],211,Norrbotten
+0,492,[],28,Central Tutume
+0,515,[],30,Amazonas
+0,3414,[],211,Smaland
+0,497,[],28,Jwaneng
+0,520,[],30,Estado de Sao Paulo
+0,3419,[],211,Vasterbotten
+0,502,[],28,Lobatse
+0,525,[],30,Minas Gerais
+0,3505,[],216,Arusha
+0,507,[],28,Orapa
+0,530,[],30,Piaui
+0,3510,[],216,Kigoma
+0,546,[],33,Burgas
+0,535,[],30,Roraima
+0,3515,[],216,Morogoro
+0,551,[],33,Kardzhali
+0,614,[],35,Bubanza
+0,3520,[],216,Ruvuma
+0,556,[],33,Pazardzhik
+0,619,[],35,Gitega
+0,3525,[],216,Zanzibar and Pemba
+0,561,[],33,Ruse
+0,624,[],35,Muramvya
+0,3621,[],221,Diego Martin
+0,566,[],33,Sofija grad
+0,685,[],40,Grand Cayman
+0,3626,[],221,Princes Town
+0,571,[],33,Veliko Tarnovo
+0,824,[],50,Haut-Congo
+0,3631,[],221,Siparia
+0,664,[],38,British Columbia
+0,829,[],50,Maniema
+0,3757,[],226,Niutao
+0,669,[],38,Nova Scotia
+0,895,[],55,Cienfuegos
+0,3919,[],231,Alabama
+0,674,[],38,Saskatchewan
+0,900,[],55,Holguin
+0,3924,[],231,California
+0,720,[],43,Atacama
+0,905,[],55,Pinar del Rio
+0,3929,[],231,District of Columbia
+0,725,[],43,Magellanes
+0,970,[],60,Saint David
+0,3934,[],231,Illinois
+0,730,[],43,Valparaiso
+0,975,[],60,Saint Mark
+0,3939,[],231,Louisiana
+0,851,[],53,Agneby
+0,1078,[],65,Cabanas
+0,3944,[],231,Medfield
+0,856,[],53,Haut-Sassandra
+0,1083,[],65,La Union
+0,3949,[],231,Montana
+0,861,[],53,Moyen-Comoe
+0,1088,[],65,Santa Ana
+0,3954,[],231,New Jersy
+0,866,[],53,Sud-Comoe
+0,1134,[],70,Coral Sea Islands
+0,3959,[],231,Ohio
+0,942,[],58,Bornholm
+0,1185,[],75,Alpes-Cote dAzur
+0,3964,[],231,Ramey
+0,947,[],58,Kobenhavns Amt
+0,1190,[],75,Ardeche
+0,3969,[],231,Tennessee
+0,952,[],58,Roervig
+0,1195,[],75,Auvergne
+0,3974,[],231,Virginia
+0,957,[],58,Sonderjylland
+0,1200,[],75,Bourgogne
+0,4019,[],236,Vatican City State (Holy See)
+0,962,[],58,Vestsjalland
+0,1205,[],75,Cantal
+0,4112,[],246,Harare
+0,1025,[],63,Carchi
+0,1210,[],75,Cher
+0,4117,[],246,Masvingo
+0,1030,[],63,Galapagos
+0,1215,[],75,Creuse
+0,111,[],3,Ayn Tamushanat
+0,1035,[],63,Manabi
+0,1220,[],75,Drome
+0,116,[],3,Batnah
+0,1040,[],63,Pichincha
+0,1225,[],75,Finistere
+0,121,[],3,Bumardas
+0,1105,[],68,Hiiu
+0,1230,[],75,Haut-Rhin
+0,126,[],3,Jijili
+0,1110,[],68,Laane-Viru
+0,1235,[],75,Haute-Saone
+0,131,[],3,Milah
+0,1240,[],75,Hauts-de-Seine
+0,1115,[],68,Tartu
+0,136,[],3,Ouargla
+0,1245,[],75,Indre-et-Loire
+0,141,[],3,Sayda
+0,1147,[],73,Eastern
+0,1250,[],75,Languedoc-Roussillon
+0,1323,[],78,Crozet Islands
+0,146,[],3,Tibissah
+0,1404,[],83,Eastern
+0,1255,[],75,Loir-et-Cher
+0,151,[],3,Tizi Wazu
+0,1409,[],83,Volta
+0,156,[],3,Wilaya de Bejaia
+0,1260,[],75,Lot
+0,1503,[],88,La Desirade
+0,161,[],3,al-Wad
+0,1265,[],75,Manche
+0,1590,[],93,Bissau
+0,327,[],17,Isa
+0,1270,[],75,Midi-Pyrenees
+0,1595,[],93,Quinara
+0,332,[],17,Manama
+0,1275,[],75,Nord-Pas-de-Calais
+0,1702,[],103,Azarbayjan-e Khavari
+0,439,[],22,Belize
+0,1280,[],75,Pays de la Loire
+0,1707,[],103,Gilan
+0,1285,[],75,Pyrenees-Orientales
+0,444,[],22,Toledo
+0,1712,[],103,Kerman
+0,1290,[],75,Saint Viatre
+0,543,[],32,Temburong
+0,1717,[],103,Kordestan
+0,1295,[],75,Seine-Saint-Denis
+0,656,[],37,Littoral
+0,1722,[],103,Qazvin
+0,1300,[],75,Tarn
+0,661,[],37,Sud
+0,1305,[],75,"Val-d''Oise"
+0,1727,[],103,Yazd
+0,706,[],42,Chari-Baguirmi
+0,1310,[],75,Vendee
+0,1906,[],108,Kingston
+0,711,[],42,Logone Oriental
+0,1334,[],80,Banjul
+0,1911,[],108,Saint Catherine
+0,716,[],42,Tandjile
+0,1339,[],80,Kerewan
+0,1916,[],108,Trelawney
+0,779,[],47,Bogota
+0,1414,[],85,Aitolia kai Akarnania
+0,2007,[],113,Nairobi
+0,784,[],47,Casanare
+0,1419,[],85,Attiki
+0,2092,[],118,Batken
+0,789,[],47,Cundinamarca
+0,1424,[],85,Evia
+0,2097,[],118,Naryn
+0,794,[],47,Magdalena
+0,1429,[],85,Fokis
+0,2171,[],123,Grand Bassa
+0,799,[],47,Quindio
+0,1434,[],85,Hania
+0,2176,[],123,Maryland and Grand Kru
+0,804,[],47,Tolima
+0,1439,[],85,Ioannina
+0,2243,[],128,Macau
+0,844,[],52,Cartago
+0,1444,[],85,Kefallinia
+0,2329,[],133,Faaf
+0,849,[],52,San Jose
+0,1449,[],85,Kozani
+0,2334,[],133,Haa Dhaal
+0,918,[],57,Jihomoravsky
+0,1454,[],85,Levkas
+0,2339,[],133,Miim
+0,923,[],57,Lipov
+0,1459,[],85,Pella
+0,2344,[],133,Thaa
+0,928,[],57,Plzensky
+0,1464,[],85,Rodopi
+0,2398,[],138,Saint-Pierre
+0,933,[],57,Straz nad Nisou
+0,1469,[],85,Trikala
+0,938,[],57,Velesin
+0,2504,[],148,Agadir
+0,1523,[],90,Alta Verapaz
+0,1011,[],62,Ambeno
+0,2509,[],148,Gharb-Chrarda-Beni Hssen
+0,1528,[],90,Escuintla
+0,1016,[],62,Ermera
+0,2514,[],148,Oriental
+0,1533,[],90,Jutiapa
+0,1021,[],62,Viqueque
+0,2519,[],148,Settat
+0,1538,[],90,Sacatepequez
+0,2524,[],148,Wilaya de Casablanca
+0,1102,[],67,Maekel
+0,1543,[],90,Totonicapan
+0,2569,[],153,Gandaki
+0,1140,[],72,Sandoy
+0,1610,[],95,Nord
+0,2574,[],153,Mahakali
+0,1145,[],72,Vaga
+0,1615,[],95,Sud-Est
+0,2579,[],153,Seti
+0,1321,[],77,Tubuai
+0,1661,[],100,Nor urland vestra
+0,2626,[],158,Chinandega
+0,1358,[],82,Beilstein Wurtt
+0,1749,[],105,Armagh
+0,2631,[],158,Leon
+0,1363,[],82,Freistaat Bayern
+0,1754,[],105,Donegal
+0,2636,[],158,Nueva Segovia
+0,1368,[],82,Kortenberg
+0,1759,[],105,Kilkenny
+0,2688,[],163,Saipan
+0,1373,[],82,Land Hessen
+0,1764,[],105,Loch Garman
+0,2749,[],168,Dayr-al-Balah
+0,1378,[],82,Land Sachsen-Anhalt
+0,1769,[],105,Monaghan
+0,2754,[],168,Nabulus
+0,1383,[],82,Munich
+0,1774,[],105,Tipperary South Riding
+0,2759,[],168,Tubas
+0,1388,[],82,North Rhine-Westphalia
+0,1779,[],105,Wicklow
+0,2837,[],173,Bicol
+0,1393,[],82,Sachsen
+0,1970,[],110,Saint John
+0,2842,[],173,Central Mindanao
+0,1398,[],82,Webling
+0,1975,[],110,Saint Saviour
+0,2847,[],173,Greater Metropolitan Area
+0,1495,[],87,Saint Davids
+0,2038,[],115,Hwanghaebukto
+0,2852,[],173,Metropolitan Manila Area
+0,1557,[],92,Beyla
+0,2043,[],115,Pyeonganbukto
+0,2857,[],173,Western Mindanao
+0,1562,[],92,Dabola
+0,2118,[],120,Aluksnes
+0,2923,[],178,ad-Dawhah
+0,2123,[],120,Daugavpils City
+0,1567,[],92,Fria
+0,2928,[],178,ar-Rayyan
+0,1572,[],92,Kindia
+0,2128,[],120,Jelgavas
+0,3087,[],183,Tristan da Cunha
+0,1577,[],92,Labe
+0,2133,[],120,Liepajas
+0,3124,[],188,"Gaga''emauga"
+0,1582,[],92,Mandiana
+0,2138,[],120,Preilu
+0,3129,[],188,"Va''a-o-Fonoti"
+0,1587,[],92,Tougue
+0,3195,[],198,Benedikt
+0,2143,[],120,Saldus
+0,1620,[],97,Comayagua
+0,3200,[],198,Notranjsko-krashka
+0,2148,[],120,Ventspils
+0,1625,[],97,Francisco Morazan
+0,3205,[],198,Podravska
+0,2210,[],125,Mauren
+0,1630,[],97,Lempira
+0,3210,[],198,Zasavska
+0,2215,[],125,Triesen
+0,1635,[],97,Yoro
+0,3384,[],208,Marowijne
+0,2276,[],130,Fianarantsoa
+0,1670,[],102,Bengkulu
+0,3389,[],208,Wanica
+0,2356,[],135,Inner Harbour
+0,1675,[],102,Jawa Barat
+0,3460,[],213,Halab
+0,2361,[],135,Western
+0,1680,[],102,Kalimantan Tengah
+0,3465,[],213,Tartus
+0,2416,[],140,Grand Port
+0,1685,[],102,Maluku Utara
+0,3470,[],213,as-Suwayda
+0,2421,[],140,Riviere du Rempart
+0,1690,[],102,Riau Kepulauan
+0,3608,[],218,Savanes
+0,2478,[],145,La Condamine
+0,2539,[],150,Chin
+0,3667,[],223,Aksaray
+0,1695,[],102,Sulawesi Utara
+0,2544,[],150,Mandalay
+0,3672,[],223,Artvin
+0,1802,[],107,Abruzzi
+0,3677,[],223,Bayburt
+0,2549,[],150,Shan
+0,1807,[],107,Arezzo
+0,3682,[],223,Burdur
+0,2587,[],155,Drenthe
+0,1812,[],107,Basilicata
+0,3687,[],223,Denizli
+0,2592,[],155,Limburg
+0,1817,[],107,Bologna
+0,3692,[],223,Erzincan
+0,2597,[],155,Utrecht
+0,1822,[],107,Campania
+0,3697,[],223,Gumushane
+0,2649,[],160,Adamawa
+0,1827,[],107,Como
+0,3702,[],223,Isparta
+0,2654,[],160,Benue
+0,1832,[],107,Ferrara
+0,3707,[],223,Karaman
+0,2659,[],160,Edo
+0,1837,[],107,Frosinone
+0,3712,[],223,Kilis
+0,2664,[],160,Jigawa
+0,1842,[],107,Lecce
+0,3717,[],223,Konya
+0,2669,[],160,Kogi
+0,1847,[],107,Lombardia
+0,3722,[],223,Mardin
+0,2674,[],160,Ogun
+0,3727,[],223,Ordu
+0,2679,[],160,Rivers
+0,1852,[],107,Messina
+0,3732,[],223,Sanliurfa
+0,2713,[],165,Al Buraimi
+0,1857,[],107,Montenegro
+0,3737,[],223,Tekirdag
+0,2718,[],165,Wadi Kabir
+0,1862,[],107,Parma
+0,2775,[],170,East New Britain
+0,3742,[],223,Van
+0,1867,[],107,Piedmont
+0,2780,[],170,Gulf
+0,3767,[],228,"Chernihivs''ka"
+0,1872,[],107,Puglia
+0,2785,[],170,National Capital District
+0,1877,[],107,Sardegna
+0,3772,[],228,"Ivano-Frankivs''ka"
+0,2790,[],170,Simbu
+0,3777,[],228,Kirovohrad
+0,1882,[],107,Sondrio
+0,2861,[],175,Dobroszyce
+0,3782,[],228,"Luhans''ka"
+0,1887,[],107,Toscana
+0,2866,[],175,Koscian
+0,3787,[],228,"Rivnens''ka"
+0,2871,[],175,Lubuskie
+0,1892,[],107,Udine
+0,3792,[],228,"Vynnyts''ka"
+0,2876,[],175,Opolskie
+0,1897,[],107,Venezia
+0,3981,[],233,Canelones
+0,2881,[],175,Pomorskie
+0,1902,[],107,Viterbo
+0,3986,[],233,Flores
+0,2886,[],175,Slaskie
+0,1993,[],112,Atirau
+0,3991,[],233,Rio Negro
+0,1998,[],112,Mankistau
+0,2891,[],175,Wejherowo
+0,3996,[],233,Soriano
+0,2003,[],112,Taraz
+0,2934,[],180,Alba
+0,4046,[],238,Binh Duong
+0,2939,[],180,Bistrita-Nasaud
+0,2086,[],117,Safat
+0,4051,[],238,Dong Nam Bo
+0,2944,[],180,Buzau
+0,2091,[],117,al-Kuwayt
+0,4056,[],238,Long An
+0,2949,[],180,Covasna
+0,2163,[],122,Maseru
+0,4061,[],238,Tinh Can Tho
+0,2954,[],180,Gorj
+0,2168,[],122,Thaba-Tseka
+0,2959,[],180,Ilfov
+0,4079,[],243,Dhamar
+0,2235,[],127,Esch-sur-Alzette
+0,4084,[],243,Lahij
+0,2964,[],180,Olt
+0,2240,[],127,Remich
+0,4089,[],243,Shabwah
+0,2969,[],180,Sondelor
+0,2309,[],132,Kelantan
+0,4094,[],243,al-Mahrah
+0,2974,[],180,Valcea
+0,2314,[],132,Negeri Sembilan
+0,171,[],5,La Massana
+0,3104,[],185,Castries
+0,2319,[],132,Pulau Pinang
+0,3109,[],185,Micoud
+0,202,[],9,Saint George
+0,2324,[],132,Terengganu
+0,3142,[],190,Lemba
+0,207,[],9,Saint Philip
+0,2374,[],137,Bikini
+0,3183,[],195,Northern
+0,281,[],14,Carinthia
+0,2379,[],137,Kili
+0,3214,[],200,Guadalcanal
+0,286,[],14,Oberosterreich
+0,2384,[],137,Majuro
+0,3219,[],200,Temotu
+0,291,[],14,Tirol
+0,2389,[],137,Namu
+0,3257,[],205,Albacete
+0,403,[],19,Saint Andrew
+0,2394,[],137,Wotje
+0,3262,[],205,Badajoz
+0,408,[],19,Saint Lucy
+0,2431,[],142,Chiapas
+0,3267,[],205,Burgos
+0,457,[],24,Hamilton
+0,2436,[],142,Durango
+0,3272,[],205,Catalunya
+0,577,[],34,Bazega
+0,2441,[],142,Jalisco
+0,3277,[],205,Comunidad Autonoma de Galicia
+0,582,[],34,Ganzourgou
+0,2446,[],142,Nuevo Leon
+0,3282,[],205,Cuenca
+0,587,[],34,Kadiogo
+0,2451,[],142,San Luis Potosi
+0,3287,[],205,Guipuzcoa
+0,592,[],34,Kouritenga
+0,2456,[],142,Tlaxcala
+0,3292,[],205,Las Palmas
+0,597,[],34,Namentenga
+0,2565,[],152,Yaren
+0,3297,[],205,Madrid
+0,602,[],34,Poni
+0,2607,[],157,Christchurch
+0,3302,[],205,Ourense
+0,607,[],34,Soum
+0,2612,[],157,Nelson
+0,3307,[],205,Santa Cruz de Tenerife
+0,612,[],34,Zondoma
+0,2617,[],157,Taranaki
+0,3312,[],205,Tenerife
+0,679,[],39,Maio
+0,2685,[],162,Norfolk Island
+0,3317,[],205,Vizcaya
+0,684,[],39,Sao Vicente
+0,2734,[],167,Kayangel
+0,3393,[],210,Manzini
+0,735,[],44,Beijing
+0,2739,[],167,Ngaremlengui
+0,3503,[],215,Khatlon
+0,740,[],44,Gansu
+0,2744,[],167,Peleliu
+0,3615,[],220,Tongatapu
+0,745,[],44,Hainan
+0,2815,[],172,Arequipa
+0,3806,[],230,Aberdeenshire
+0,2820,[],172,Huanuco
+0,750,[],44,Hunan
+0,3811,[],230,Berkshire
+0,2825,[],172,Lima y Callao
+0,3816,[],230,Buckinghamshire
+0,755,[],44,Liaoning
+0,2830,[],172,Piura
+0,3821,[],230,Cleveland
+0,760,[],44,Shaanxi
+0,2835,[],172,Ucayali
+0,3826,[],230,Craven Arms
+0,765,[],44,Sichuan
+0,2914,[],177,Guayama
+0,770,[],44,Yunnan
+0,3831,[],230,Devon
+0,2919,[],177,San Juan
+0,813,[],49,Cuvette
+0,3836,[],230,Durham
+0,3078,[],182,Gisenyi
+0,818,[],49,Plateaux
+0,3841,[],230,East Yorkshire
+0,3083,[],182,Ruhengeri
+0,872,[],54,Grad Zagreb
+0,3846,[],230,Flintshire
+0,3118,[],187,Saint George
+0,877,[],54,Lika-Senj
+0,3851,[],230,Hampshire
+0,3167,[],192,Kaolack
+0,882,[],54,Pozhega-Slavonija
+0,3856,[],230,Isle Of Man
+0,3172,[],192,Thies
+0,887,[],54,Split-Dalmacija
+0,3861,[],230,Lanarkshire
+0,3190,[],197,Nitriansky
+0,892,[],54,Zagreb
+0,3866,[],230,London
+0,3238,[],202,Eastern Cape
+0,968,[],59,Ubuk
+0,3871,[],230,Mid Glamorgan
+0,3243,[],202,KwaZulu Natal
+0,1048,[],64,Cairo
+0,3876,[],230,Norfolk
+0,3248,[],202,Parow
+0,1053,[],64,Muhafazat al Fayyum
+0,3881,[],230,Northern Ireland
+0,3354,[],207,Bahr-al-Jabal
+0,1058,[],64,Sawhaj
+0,3886,[],230,Roos-shire
+0,1063,[],64,al-Buhayrah
+0,3359,[],207,"Gharb-al-Istiwa''iyah"
+0,1068,[],64,al-Jizah
+0,3891,[],230,Shropshire
+0,3364,[],207,Nahr-an-Nil
+0,1073,[],64,al-Uqsur
+0,3896,[],230,Southwell
+0,3369,[],207,Sinnar
+0,1120,[],69,Afar
+0,3901,[],230,Sussex
+0,3374,[],207,al-Jazirah
+0,1125,[],69,Harar
+0,3906,[],230,Wales
+0,3379,[],207,an-Nil-al-Azraq
+0,1130,[],69,Southern
+0,3911,[],230,West Yorkshire
+0,3427,[],212,Basel-Landschaft
+0,1154,[],74,Etela-Savo
+0,3916,[],230,Wrexham
+0,3432,[],212,Geneve
+0,1159,[],74,Kanta-Hame
+0,4015,[],235,Sanma
+0,3437,[],212,Kanton Aargau
+0,1164,[],74,Lappi
+0,4068,[],240,Saint John
+0,3442,[],212,Nidwalden
+0,1169,[],74,Pirkanmaa
+0,4105,[],245,Luapala
+0,3447,[],212,Solothurn
+0,1174,[],74,Saarijarvi
+0,4110,[],245,Western
+0,3452,[],212,Vaud
+0,1179,[],74,Uusimaa
+0,3527,[],217,Ang Thong
+0,1328,[],79,Ngounie
+0,3532,[],217,Chaiyaphum
+0,1333,[],79,Woleu-Ntem
+0,3537,[],217,Chon Buri
+0,1510,[],89,Chalan-Pago-Ordot
+0,1515,[],89,Merizo
+0,3542,[],217,Khon Kaen
+0,1520,[],89,Tamuning
+0,3547,[],217,Loei
+0,1599,[],94,Demerara-Mahaica
+0,1604,[],94,Potaro-Siparuni
+0,3552,[],217,Nakhon Nayok
+0,1639,[],99,Bekes
+0,3557,[],217,Nakhon Si Thammarat
+0,1644,[],99,Gyor-Moson-Sopron
+0,3562,[],217,Nonthaburi
+0,1649,[],99,Nograd
+0,3567,[],217,Phayao
+0,1654,[],99,Vas
+0,3572,[],217,Phra Nakhon Si Ayutthaya
+0,1731,[],104,Dahuk
+0,3577,[],217,Ranong
+0,1736,[],104,Karbala
+0,3582,[],217,Sakon Nakhon
+0,1741,[],104,Wasit
+0,3587,[],217,Satun
+0,1746,[],104,an-Najaf
+0,3592,[],217,Suphan Buri
+0,1920,[],109,Aomori
+0,3597,[],217,Trat
+0,1925,[],109,Fukushima
+0,3602,[],217,Yala
+0,1930,[],109,Hyogo
+0,3636,[],222,Binzart
+0,1935,[],109,Kagoshima
+0,3641,[],222,Jundubah
+0,1940,[],109,Kyoto
+0,3646,[],222,Qabis
+0,1945,[],109,Nagasaki
+0,3651,[],222,Sidi Bu Zayd
+0,1950,[],109,Okinawa
+0,3656,[],222,Tunis
+0,1955,[],109,Shimane
+0,3661,[],222,al-Qasrayn
+0,1960,[],109,Tottori
+0,3765,[],227,Western
+0,1965,[],109,Yamanashi
+0,4023,[],237,Aragua
+0,2016,[],114,Banaba
+0,4028,[],237,Delta Amacuro
+0,2021,[],114,Maiana
+0,4033,[],237,Merida
+0,2026,[],114,Onotoa
+0,4038,[],237,Sucre
+0,2031,[],114,Tamana
+0,4043,[],237,Zulia
+0,2101,[],119,Bokeo
+0,42,[],1,Badakhshan
+0,2106,[],119,Luang Nam Tha
+0,47,[],1,Farah
+0,2111,[],119,Savannakhet
+0,52,[],1,Hilmand
+0,2116,[],119,Xiang Khuang
+0,57,[],1,Kunar
+0,2186,[],124,Gharyan
+0,62,[],1,Nuristan
+0,2191,[],124,Surt
+0,67,[],1,Qunduz
+0,2196,[],124,Yafran
+0,72,[],1,Wardag
+0,2201,[],124,al-Jufrah
+0,211,[],10,Chubut
+0,2206,[],124,az-Zawiyah
+0,216,[],10,Formosa
+0,2248,[],129,Delchevo
+0,221,[],10,Misiones
+0,2253,[],129,Kichevo
+0,226,[],10,San Luis
+0,2258,[],129,Kumanovo
+0,2263,[],129,Radovish
+0,231,[],10,Tucuman
+0,299,[],15,Kalbacar
+0,2268,[],129,Strumica
+0,304,[],15,Naxcivan
+0,2273,[],129,Vinica
+0,309,[],15,Xacmaz
+0,2350,[],134,Koulikoro
+0,417,[],20,Mahilyowskaya Voblasts
+0,2399,[],139,Adrar
+0,459,[],25,Bumthang
+0,2404,[],139,Hudh-ash-Sharqi
+0,464,[],25,Ha
+0,2409,[],139,Taqant
+0,469,[],25,Rinpung
+0,2466,[],144,Chisinau
+0,474,[],25,Timphu
+0,2471,[],144,Orhei
+0,514,[],30,Amapa
+0,2476,[],144,Ungheni
+0,519,[],30,Espirito Santo
+0,2530,[],149,Maputo
+0,524,[],30,Mato Grosso do Sul
+0,2535,[],149,Tete
+0,529,[],30,Pernambuco
+0,2583,[],154,Sint Eustatius
+0,534,[],30,Rondonia
+0,2642,[],159,Maradi
+0,539,[],30,Tocantins
+0,2690,[],164,Akershus
+0,618,[],35,Cibitoke
+0,2695,[],164,Hedmark
+0,623,[],35,Makamba
+0,2700,[],164,Oestfold
+0,628,[],35,Ruyigi
+0,2705,[],164,Sogn og Fjordane
+0,823,[],50,Equateur
+0,2710,[],164,Vest Agder
+0,828,[],50,Kinshasa
+0,2765,[],169,Cocle
+0,894,[],55,Ciego de Avila
+0,2770,[],169,Kuna Yala
+0,899,[],55,Habana
+0,2859,[],174,Pitcairn Island
+0,904,[],55,Matanzas
+0,3088,[],184,Christ Church Nichola Town
+0,969,[],60,Saint Andrew
+0,3093,[],184,Saint John Capesterre
+0,974,[],60,Saint Luke
+0,3098,[],184,Saint Peter Basseterre
+0,1077,[],65,Ahuachapan
+0,3132,[],189,Borgo Maggiore
+0,1082,[],65,La Paz
+0,3137,[],189,Montegiardino
+0,1087,[],65,San Vicente
+0,3179,[],194,Cascade
+0,1133,[],70,Cocos Islands
+0,3390,[],209,Svalbard
+0,1184,[],75,Allier
+0,3475,[],214,Hsinchu Hsien
+0,1189,[],75,Aquitaine
+0,3480,[],214,Kaohsiung Shih
+0,1194,[],75,Aude
+0,3485,[],214,Northern Taiwan
+0,3490,[],214,Taichung Shih
+0,1199,[],75,Bouches-du-Rhone
+0,3495,[],214,Taitung
+0,1204,[],75,Calvados
+0,3609,[],219,Atafu
+0,1209,[],75,Charente-Maritime
+0,3748,[],224,Balkan
+0,1214,[],75,"Cotes-d''Armor"
+0,3797,[],229,Ajman
+0,1219,[],75,Doubs
+0,3802,[],229,Umm al Qaywayn
+0,1224,[],75,Feucherolles
+0,4001,[],234,Buxoro Viloyati
+0,1229,[],75,Gironde
+0,4006,[],234,Korakalpogiston
+0,1234,[],75,Haute-Marne
+0,4011,[],234,Surhondar
+0,1239,[],75,Hautes-Pyrenees
+0,4096,[],244,Central Serbia
+0,1244,[],75,Indre
+0,4101,[],244,Vojvodina
+0,1249,[],75,Landes
+0,78,[],2,Dibre
+0,1254,[],75,Limousin
+0,83,[],2,Gramsh
+0,1259,[],75,Lorraine
+0,88,[],2,Kruje
+0,1264,[],75,Maine-et-Loire
+0,93,[],2,Librazhd
+0,1269,[],75,Meuse
+0,98,[],2,Mirdite
+0,1274,[],75,Nord
+0,103,[],2,Sarande
+0,1279,[],75,Pas-de-Calais
+0,108,[],2,Tropoje
+0,1284,[],75,Pyrenees-Atlantiques
+0,178,[],6,Cabinda
+0,1289,[],75,Saint Ouen
+0,183,[],6,Kwanza Norte
+0,1294,[],75,Seine-Maritime
+0,188,[],6,Malanje
+0,232,[],11,Aragatsotn
+0,1299,[],75,Souvans
+0,237,[],11,Lori
+0,1304,[],75,Upper Normandy
+0,242,[],11,Vayots Dzor
+0,1309,[],75,Vellise
+0,313,[],16,Berry Islands
+0,1314,[],75,Yvelines
+0,318,[],16,Exuma and Cays
+0,1338,[],80,Kanifing
+0,323,[],16,New Providence
+0,1413,[],85,Ahaia
+0,423,[],21,Berchem
+0,1418,[],85,Attica
+0,428,[],21,Hainaut
+0,1423,[],85,Drama
+0,433,[],21,Ontario
+0,1428,[],85,Florina
+0,438,[],21,West-Vlaanderen
+0,1433,[],85,Halkidiki
+0,481,[],26,Oruro
+0,1438,[],85,Imathia
+0,540,[],31,British Indian Ocean Territory
+0,1443,[],85,Kavala
+0,633,[],36,Kampong Spoeu
+0,1448,[],85,Korinthia
+0,638,[],36,Kracheh
+0,1453,[],85,Lesvos
+0,643,[],36,Otdar Mean Chey
+0,1458,[],85,Nomos Zakynthou
+0,648,[],36,Rotanak Kiri
+0,1463,[],85,Rethimni
+0,686,[],41,Bamingui-Bangoran
+0,1468,[],85,Thessaloniki
+0,691,[],41,Kemo
+0,1473,[],85,Zakinthos
+0,696,[],41,Nana-Mambere
+0,1527,[],90,El Progreso
+0,701,[],41,Sangha-Mbaere
+0,1532,[],90,Jalapa
+0,834,[],51,Mangaia
+0,1537,[],90,Retalhuleu
+0,839,[],51,Pukapuka
+0,1542,[],90,Suchitepequez
+0,910,[],56,Limassol
+0,1609,[],95,"Grand''Anse"
+0,980,[],61,Bahoruco
+0,1614,[],95,Sud
+0,985,[],61,El Seybo
+0,1660,[],100,Nor urland eystra
+0,990,[],61,La Altagracia
+0,1665,[],100,Vesturland
+0,995,[],61,Monte Cristi
+0,1753,[],105,Cork
+0,1000,[],61,Salcedo
+0,1758,[],105,Kildare
+0,1005,[],61,Sanchez Ramirez
+0,1763,[],105,Limerick
+0,1092,[],66,Bioko Norte
+0,1768,[],105,Meath
+0,1097,[],66,Wele-Nzas
+0,1773,[],105,Tipperary North Riding
+0,1342,[],81,Abhasia
+0,1778,[],105,Wexford
+0,1347,[],81,Kvemo Kartli
+0,1969,[],110,Saint Helier
+0,1352,[],81,Shida Kartli
+0,1974,[],110,Saint Peter
+0,1477,[],86,Ilulissat
+0,2037,[],115,Hamgyeongnamdo
+0,1482,[],86,Narsaq
+0,2042,[],115,Nampo
+0,1487,[],86,Qasigiannguit
+0,2117,[],120,Aizkraukles
+0,1492,[],86,Uummannaq
+0,2122,[],120,Daugavpils
+0,1549,[],91,Saint Martin
+0,2127,[],120,Jelgava
+0,1554,[],91,Sark
+0,2132,[],120,Liepaja
+0,2,[],101,Andhra Pradesh
+0,2137,[],120,Ogres
+0,7,[],101,Chhattisgarh
+0,2142,[],120,Rigas
+0,12,[],101,Gujarat
+0,2147,[],120,Valmieras
+0,17,[],101,Karnataka
+0,2209,[],125,Gamprin
+0,22,[],101,Maharashtra
+0,2214,[],125,Schellenberg
+0,27,[],101,Narora
+0,2275,[],130,Antsiranana
+0,32,[],101,Punjab
+0,2355,[],135,Gozo and Comino
+0,37,[],101,Tripura
+0,2360,[],135,Valletta
+0,1780,[],106,Beit Hanania
+0,2415,[],140,Floreal
+0,1785,[],106,Gaza
+0,2420,[],140,Port Louis
+0,1790,[],106,Hebron
+0,2477,[],145,Fontvieille
+0,1795,[],106,Lower Galilee
+0,2538,[],150,Bago
+0,1800,[],106,Umm El Fahem
+0,1980,[],111,Jarash
+0,2543,[],150,Magway
+0,1985,[],111,al-Karak
+0,2548,[],150,Sagaing
+0,2048,[],116,Cheju
+0,2586,[],155,Benelux
+0,2053,[],116,Chungcheongnam
+0,2591,[],155,Groningen
+0,2058,[],116,Gyeonggi-do
+0,2596,[],155,South Holland
+0,2063,[],116,Jeonbuk
+0,2648,[],160,Abuja Federal Capital Territor
+0,2068,[],116,Kyeongsangnam
+0,2653,[],160,Bayelsa
+0,2073,[],116,Pusan
+0,2658,[],160,Ebonyi
+0,2078,[],116,Taejon-gwangyoksi
+0,2663,[],160,Imo
+0,2151,[],121,Jabal Lubnan
+0,2668,[],160,Kebbi
+0,2156,[],121,al-Janub
+0,2673,[],160,Niger
+0,2220,[],126,Kauno
+0,2678,[],160,Plateau
+0,2225,[],126,Shiauliu
+0,2683,[],160,Zamfara
+0,2230,[],126,Vilniaus
+0,2717,[],165,Rusayl
+0,2284,[],131,Chitipa
+0,2722,[],165,ash-Sharqiyah
+0,2289,[],131,Lilongwe City
+0,2779,[],170,Fly River
+0,2294,[],131,Mwanza
+0,2784,[],170,Morobe
+0,2299,[],131,Nsanje
+0,2789,[],170,Sandaun
+0,2304,[],131,Salima
+0,2860,[],175,Biale Blota
+0,2364,[],136,Laxey
+0,2865,[],175,Kartuzy
+0,2369,[],136,Ramsey
+0,2870,[],175,Lubelskie
+0,2483,[],146,Bajanhongor
+0,2875,[],175,Mirkow
+0,2488,[],146,Dundgovi
+0,2880,[],175,Polska
+0,2493,[],146,Hovsgol
+0,2885,[],175,Rzeszow
+0,2498,[],146,Suhbaatar
+0,2890,[],175,Warsaw
+0,2552,[],151,Caprivi
+0,2895,[],175,Zukowo
+0,2557,[],151,Khomas
+0,2938,[],180,Bihor
+0,2562,[],151,Oshana
+0,2943,[],180,Bucuresti
+0,2602,[],156,Sud
+0,2948,[],180,Constanta
+0,2726,[],166,North-West Frontier
+0,2953,[],180,Giurgiu
+0,2795,[],171,Alto Parana
+0,2958,[],180,Iasi
+0,2800,[],171,Caazapa
+0,2963,[],180,Neamt
+0,2805,[],171,Guaira
+0,2968,[],180,Sibiu
+0,2810,[],171,Presidente Hayes
+0,2973,[],180,Tulcea
+0,2899,[],176,Algarve
+0,3103,[],185,Canaries
+0,2904,[],176,Distrito de Vila Real
+0,3108,[],185,Laborie
+0,2909,[],176,Paivas
+0,3141,[],190,Cantagalo
+0,2981,[],181,Amur
+0,3182,[],195,Eastern
+0,2986,[],181,Brjansk
+0,2991,[],181,Chukotka
+0,3213,[],200,Choiseul
+0,2996,[],181,Habarovsk
+0,3218,[],200,Rennell and Bellona
+0,3001,[],181,Ivanovo
+0,3256,[],205,Alava
+0,3006,[],181,Kaliningrad
+0,3261,[],205,Avila
+0,3011,[],181,Karelija
+0,3266,[],205,Biscay
+0,3016,[],181,Komi-Permjakija
+0,3271,[],205,Castello
+0,3021,[],181,Krasnoyarskiy Kray
+0,3276,[],205,Comunidad Autonoma de Cataluna
+0,3026,[],181,Magadan
+0,3031,[],181,Moskovskaya Oblast
+0,3281,[],205,Cordoba
+0,3036,[],181,Novgorod
+0,3286,[],205,Guadalajara
+0,3041,[],181,Orjol
+0,3291,[],205,La Rioja
+0,3046,[],181,Pskovskaya Oblast
+0,3296,[],205,Lugo
+0,3051,[],181,Samara
+0,3301,[],205,Navarra
+0,3056,[],181,Stavropol
+0,3306,[],205,Salamanca
+0,3061,[],181,Tjumen
+0,3311,[],205,Tarragona
+0,3066,[],181,Udmurtija
+0,3316,[],205,Valladolid
+0,3071,[],181,Volgograd
+0,3392,[],210,Lubombo
+0,3146,[],191,Al Khobar
+0,3502,[],215,Karotegin
+0,3151,[],191,Eastern Province
+0,3614,[],220,Niuas
+0,3156,[],191,Najran
+0,3805,[],230,Aberdeen
+0,3161,[],191,al-Hudud-ash-Shamaliyah
+0,3810,[],230,Belfast
+0,3222,[],201,Bakol
+0,3815,[],230,Bristol
+0,3227,[],201,Gedo
+0,3820,[],230,Cheshire
+0,3232,[],201,Nugal
+0,3237,[],201,Woqoyi Galbed
+0,3825,[],230,Coventry
+0,3830,[],230,Derbyshire
+0,3324,[],206,Colombo
+0,3835,[],230,Dunbartonshire
+0,3329,[],206,Kegalla
+0,3840,[],230,East Sussex
+0,3334,[],206,Malwana
+0,3845,[],230,Fife
+0,3339,[],206,Mullaitivu
+0,3850,[],230,Gwent
+0,3344,[],206,Puttalama
+0,3855,[],230,Ireland
+0,3349,[],206,Vavuniyawa
+0,3860,[],230,Kilmarnock
+0,3396,[],211,Angermanland
+0,3865,[],230,Llanymynech
+0,3401,[],211,Gaza
+0,3870,[],230,Merseyside
+0,3406,[],211,Kalmar
+0,3875,[],230,Newton Stewart
+0,3411,[],211,Ostergotland
+0,3880,[],230,Northants
+0,3416,[],211,Stockholm
+0,3885,[],230,Powys
+0,3421,[],211,Vasternorrland
+0,3890,[],230,Scottish Borders
+0,3507,[],216,Dodoma
+0,3895,[],230,South Yorkshire
+0,3512,[],216,Lindi
+0,3900,[],230,Surrey
+0,3517,[],216,Mwanza
+0,3905,[],230,Utah
+0,3522,[],216,Singida
+0,3910,[],230,West Sussex
+0,3618,[],221,Caroni
+0,3915,[],230,Worcestershire
+0,3623,[],221,Penal Debe
+0,4014,[],235,Penama
+0,3628,[],221,San Fernando
+0,4067,[],240,Saint Croix
+0,3754,[],226,Funafuti
+0,4104,[],245,Eastern
+0,3759,[],226,Nukufetau
+0,4109,[],245,Southern
+0,3921,[],231,Arizona
+0,3926,[],231,Colorado
+0,3931,[],231,Georgia
+0,3936,[],231,Iowa
+0,3941,[],231,Maine
+0,3946,[],231,Minnesota
+0,3951,[],231,Nevada
+0,3956,[],231,New York
+0,3961,[],231,Ontario
+0,3966,[],231,South Carolina
+0,3971,[],231,Trimble
+0,3976,[],231,West Virginia
+0,4071,[],241,Singave
+0,4114,[],246,Mashonaland Central
+0,4119,[],246,Matabeleland South
+0,113,[],3,Algiers
+0,118,[],3,Biskrah
+0,123,[],3,Ghalizan
+0,128,[],3,Khanshalah
+0,133,[],3,Mustaghanam
+0,138,[],3,Qustantinah
+0,143,[],3,Suq Ahras
+0,148,[],3,Tinduf
+0,153,[],3,Wahran
+0,158,[],3,al-Aghwat
+0,163,[],3,at-Tarif
+0,329,[],17,Hidd
+0,334,[],17,al-Manamah
+0,441,[],22,Corozal
+0,487,[],27,Republika Srpska
+0,653,[],37,Adamaoua
+0,658,[],37,Nord Extreme
+0,703,[],42,Batha
+0,708,[],42,Kanem
+0,713,[],42,Moyen-Chari
+0,776,[],47,Antioquia
+0,781,[],47,Boyaca
+0,786,[],47,Cesar
+0,791,[],47,Guaviare
+0,796,[],47,Narino
+0,801,[],47,San Andres y Providencia
+0,806,[],47,Vaupes
+0,846,[],52,Heredia
+0,915,[],57,Frycovice
+0,920,[],57,Klecany
+0,925,[],57,Olomoucky
+0,930,[],57,Rajhrad
+0,935,[],57,Unicov
+0,940,[],57,Zlinsky
+0,1013,[],62,Bobonaro
+0,1018,[],62,Liquica
+0,1099,[],67,Debub
+0,1137,[],72,Klaksvik
+0,1142,[],72,Su uroy
+0,1318,[],77,Iles sous le Vent
+0,1355,[],82,Baden-Wurttemberg
+0,1360,[],82,Brandenburg
+0,1365,[],82,Hannover
+0,1370,[],82,Land Baden-Wurttemberg
+0,1375,[],82,Land Nordrhein-Westfalen
+0,1380,[],82,Lower Saxony
+0,1385,[],82,Niedersachsen
+0,1390,[],82,Rheinland-Pfalz
+0,1395,[],82,Saxony
+0,1400,[],82,schlobborn
+0,1497,[],87,Saint John
+0,1559,[],92,Boke
+0,1564,[],92,Dinguiraye
+0,1569,[],92,Gueckedou
+0,1574,[],92,Koubia
+0,1579,[],92,Macenta
+0,1584,[],92,Pita
+0,1617,[],97,Atlantida
+0,1622,[],97,Cortes
+0,1627,[],97,Intibuca
+0,1632,[],97,Olancho
+0,1667,[],102,Bali
+0,1672,[],102,Gorontalo
+0,1677,[],102,Jawa Timur
+0,1682,[],102,Kendal
+0,1687,[],102,Nusa Tenggara Timur
+0,1692,[],102,Sulawesi Selatan
+0,1697,[],102,Sumatera Selatan
+0,1804,[],107,Agrigento
+0,1809,[],107,Asti
+0,1814,[],107,Benevento
+0,1819,[],107,Brescia
+0,1824,[],107,Caserta
+0,1829,[],107,Cremona
+0,1834,[],107,Florence
+0,1839,[],107,Gorizia
+0,1844,[],107,Lecco Province
+0,1849,[],107,Macerata
+0,1854,[],107,Modena
+0,1859,[],107,Naples
+0,1864,[],107,Perugia
+0,1869,[],107,Pisa
+0,1874,[],107,Rimini
+0,1879,[],107,Savona
+0,1884,[],107,Taranto
+0,1889,[],107,Trentino-Alto Adige
+0,1894,[],107,"Valle d''Aosta"
+0,1899,[],107,Vercelli
+0,1990,[],112,Akmola
+0,1995,[],112,Burlinsky Region
+0,2000,[],112,Pavlodar
+0,2083,[],117,Hawalli
+0,2088,[],117,al-Ahmadi
+0,2160,[],122,Butha-Buthe
+0,2165,[],122,Mokhotlong
+0,2232,[],127,Clervaux
+0,2237,[],127,Luxembourg
+0,2242,[],127,Wiltz
+0,2311,[],132,Labuan
+0,2316,[],132,Penang
+0,2321,[],132,Sarawak
+0,2371,[],137,Ailuk
+0,2376,[],137,Enewetak
+0,2381,[],137,Lae
+0,2386,[],137,Mejit
+0,2391,[],137,Ujae
+0,2428,[],142,Baja California
+0,2433,[],142,Coahuila
+0,2438,[],142,Guanajuato
+0,2443,[],142,Michoacan
+0,2448,[],142,Puebla
+0,2453,[],142,Sonora
+0,2458,[],142,Yucatan
+0,2604,[],157,Auckland
+0,2609,[],157,"Hawke''s Bay"
+0,2614,[],157,Otago
+0,2619,[],157,Waikato
+0,2731,[],167,Airai
+0,2736,[],167,Melekeok
+0,2741,[],167,Ngchesar
+0,2812,[],172,Amazonas
+0,2817,[],172,Cajamarca
+0,2822,[],172,Junin
+0,2827,[],172,Madre de Dios
+0,2832,[],172,San Martin
+0,2911,[],177,Bayamon
+0,2916,[],177,Mayaguez-Aguadilla
+0,3075,[],182,Byumba
+0,3080,[],182,Kibungo
+0,3115,[],187,Grenadines
+0,3164,[],192,Dakar
+0,3169,[],192,Louga
+0,3187,[],197,Banskobystricky
+0,3192,[],197,Trenciansky
+0,3240,[],202,Gauteng
+0,3245,[],202,Mpumalanga
+0,3250,[],202,Umtentweni
+0,3356,[],207,Gharb Bahr-al-Ghazal
+0,3361,[],207,Janub Kurdufan
+0,3366,[],207,Shamal Darfur
+0,3371,[],207,Wilayat al Khartum
+0,3376,[],207,al-Qadarif
+0,3424,[],212,Aargau
+0,3429,[],212,Bern
+0,3434,[],212,Graubunden
+0,3439,[],212,Morbio Inferiore
+0,3444,[],212,Sankt Gallen
+0,3449,[],212,Ticino
+0,3454,[],212,Zug
+0,3529,[],217,Buri Ram
+0,3534,[],217,Chanthaburi
+0,3539,[],217,Kalasin
+0,3544,[],217,Krung Thep
+0,3549,[],217,Mae Hong Son
+0,3554,[],217,Nakhon Phanom
+0,3559,[],217,Narathiwat
+0,3564,[],217,Pattani
+0,3569,[],217,Phetchaburi
+0,3574,[],217,Phuket
+0,3579,[],217,Rayong
+0,3584,[],217,Samut Sakhon
+0,3589,[],217,Sing Buri
+0,3594,[],217,Surin
+0,3599,[],217,Udon Thani
+0,3633,[],222,Aryanah
+0,3638,[],222,Gouvernorat de Nabeul
+0,3643,[],222,Manubah
+0,3648,[],222,Qibili
+0,3653,[],222,Susah
+0,3658,[],222,al-Kaf
+0,3762,[],227,Central
+0,4020,[],237,Amazonas
+0,4025,[],237,Bolivar
+0,4030,[],237,Falcon
+0,4035,[],237,Monagas
+0,4040,[],237,Trujillo
+0,4074,[],242,Wad-adh-Dhahab
+0,44,[],1,Baglan
+0,49,[],1,Gawr
+0,54,[],1,Kabul
+0,59,[],1,Lawghar
+0,64,[],1,Paktiya
+0,69,[],1,Sar-e Pul
+0,208,[],10,Buenos Aires
+0,213,[],10,Corrientes
+0,218,[],10,La Pampa
+0,223,[],10,Rio Negro
+0,228,[],10,Santa Fe
+0,296,[],15,Baki Sahari
+0,301,[],15,Mil-Qarabax
+0,306,[],15,Qazax
+0,414,[],20,Homjel
+0,419,[],20,Minskaja Voblasts
+0,461,[],25,Chirang
+0,466,[],25,Mongar
+0,471,[],25,Samdrup Jongkhar
+0,476,[],25,Wangdiphodrang
+0,516,[],30,Bahia
+0,521,[],30,Goias
+0,526,[],30,Para
+0,531,[],30,Rio Grande do Norte
+0,536,[],30,Santa Catarina
+0,615,[],35,Bujumbura
+0,620,[],35,Karuzi
+0,625,[],35,Muyinga
+0,773,[],45,Christmas Island
+0,825,[],50,Kasai-Occidental
+0,830,[],50,Nord-Kivu
+0,896,[],55,Ciudad de la Habana
+0,901,[],55,Isla de la Juventud
+0,906,[],55,Sancti Spiritus
+0,971,[],60,Saint George
+0,976,[],60,Saint Patrick
+0,1079,[],65,Chalatenango
+0,1084,[],65,Morazan
+0,1089,[],65,Sonsonate
+0,1181,[],75,Ain
+0,1186,[],75,Alpes-Maritimes
+0,1191,[],75,Ardennes
+0,1196,[],75,Aveyron
+0,1201,[],75,Bretagne
+0,1206,[],75,Cedex
+0,1211,[],75,Correze
+0,1216,[],75,Crolles
+0,1221,[],75,Essonne
+0,1226,[],75,Franche-Comte
+0,1231,[],75,Haute-Corse
+0,1236,[],75,Haute-Savoie
+0,1241,[],75,Herault
+0,1246,[],75,Isere
+0,1251,[],75,Larcay
+0,1256,[],75,Loire
+0,1261,[],75,Lot-et-Garonne
+0,1266,[],75,Marne
+0,1271,[],75,Morbihan
+0,1276,[],75,Oise
+0,1281,[],75,Pays-de-la-Loire
+0,1286,[],75,Quelmes
+0,1291,[],75,Saone-et-Loire
+0,1296,[],75,Seine-et-Marne
+0,1301,[],75,Tarn-et-Garonne
+0,1306,[],75,Val-de-Marne
+0,1311,[],75,Vienne
+0,1335,[],80,Basse
+0,1340,[],80,Kuntaur
+0,1415,[],85,Argolis
+0,1420,[],85,Ayion Oros
+0,1425,[],85,Evritania
+0,1430,[],85,Fthiotis
+0,1435,[],85,Heraklion
+0,1440,[],85,Iraklion
+0,1445,[],85,Kerkira
+0,1450,[],85,Lakonia
+0,1455,[],85,Magnisia
+0,1460,[],85,Pieria
+0,1465,[],85,Samos
+0,1470,[],85,Voiotia
+0,1524,[],90,Baja Verapaz
+0,1529,[],90,Guatemala
+0,1534,[],90,Peten
+0,1539,[],90,San Marcos
+0,1544,[],90,Zacapa
+0,1611,[],95,Nord-Est
+0,1657,[],100,Austurland
+0,1662,[],100,Su urland
+0,1750,[],105,Carlow
+0,1755,[],105,Dublin
+0,1760,[],105,Laois
+0,1765,[],105,Longford
+0,1770,[],105,Offaly
+0,1775,[],105,Ulster
+0,1966,[],110,Grouville
+0,1971,[],110,Saint Lawrence
+0,1976,[],110,Trinity
+0,2039,[],115,Hwanghaenamdo
+0,2044,[],115,Pyeongannamdo
+0,2119,[],120,Balvu
+0,2124,[],120,Dobeles
+0,2129,[],120,Jurmala City
+0,2134,[],120,Limbazhu
+0,2139,[],120,Rezekne
+0,2144,[],120,Talsu
+0,2149,[],120,Ventspils City
+0,2211,[],125,Planken
+0,2216,[],125,Triesenberg
+0,2277,[],130,Mahajanga
+0,2357,[],135,Northern
+0,2412,[],140,Black River
+0,2417,[],140,Moka
+0,2422,[],140,Rodrigues
+0,2479,[],145,Monaco-Ville
+0,2540,[],150,Kachin
+0,2545,[],150,Mon
+0,2550,[],150,Tanintharyi
+0,2588,[],155,Flevoland
+0,2593,[],155,Noord-Brabant
+0,2598,[],155,Zeeland
+0,2650,[],160,Akwa Ibom
+0,2655,[],160,Borno
+0,2660,[],160,Ekiti
+0,2665,[],160,Kaduna
+0,2670,[],160,Kwara
+0,2675,[],160,Ondo
+0,2680,[],160,Sokoto
+0,2714,[],165,Dhufar
+0,2719,[],165,ad-Dakhiliyah
+0,2776,[],170,East Sepik
+0,2781,[],170,Madang
+0,2786,[],170,New Ireland
+0,2791,[],170,Southern Highlands
+0,2862,[],175,Dolnoslaskie
+0,2867,[],175,Krakow
+0,2872,[],175,Malomice
+0,2877,[],175,Ostrowiec
+0,2882,[],175,Poznan
+0,2887,[],175,Stare Pole
+0,2892,[],175,Wielkopolskie
+0,2935,[],180,Arad
+0,2940,[],180,Botosani
+0,2945,[],180,Calarasi
+0,2950,[],180,Dambovita
+0,2955,[],180,Harghita
+0,2960,[],180,Maramures
+0,2965,[],180,Prahova
+0,2970,[],180,Suceava
+0,2975,[],180,Vaslui
+0,3105,[],185,Choiseul
+0,3110,[],185,Soufriere
+0,3143,[],190,Lobata
+0,3184,[],195,Southern
+0,3215,[],200,Isabel
+0,3220,[],200,Western
+0,3258,[],205,Almeria
+0,3263,[],205,Balears
+0,3268,[],205,Caceres
+0,3273,[],205,Ceuta
+0,3278,[],205,Comunidad Autonoma de las Isla
+0,3283,[],205,Gipuzkoa
+0,3288,[],205,Huelva
+0,3293,[],205,Leon
+0,3298,[],205,Malaga
+0,3303,[],205,Pais Vasco
+0,3308,[],205,Segovia
+0,3313,[],205,Teruel
+0,3318,[],205,Zamora
+0,3394,[],210,Shiselweni
+0,3504,[],215,Sughd
+0,3616,[],220,"Vava''u"
+0,3807,[],230,Argyll
+0,3812,[],230,Birmingham
+0,3817,[],230,Cambridge
+0,3822,[],230,Co Fermanagh
+0,3827,[],230,Cumbria
+0,3832,[],230,Dial Code Dungannon
+0,3837,[],230,East Dunbartonshire
+0,3842,[],230,England
+0,3847,[],230,Fulham
+0,3852,[],230,Hants
+0,3857,[],230,Isle of Wight
+0,3862,[],230,Lancashire
+0,3867,[],230,Ludlow
+0,3872,[],230,Middlesex
+0,3877,[],230,North Humberside
+0,3882,[],230,Northumberland
+0,3887,[],230,SUSSEX
+0,3892,[],230,Somerset
+0,3897,[],230,Staffordshire
+0,3902,[],230,Twickenham
+0,3907,[],230,Warwickshire
+0,3912,[],230,Whissendine
+0,3917,[],230,Wurttemberg
+0,4016,[],235,Shefa
+0,4069,[],240,Saint Thomas
+0,4106,[],245,Lusaka
